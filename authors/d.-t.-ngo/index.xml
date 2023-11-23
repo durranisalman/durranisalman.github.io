@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. T. Ngo | </title>
+    <link>/authors/d.-t.-ngo/</link>
+      <atom:link href="/authors/d.-t.-ngo/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. T. Ngo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>D. T. Ngo</title>
+      <link>/authors/d.-t.-ngo/</link>
+    </image>
+    
+    <item>
+      <title>Sequencing and Scheduling for Multi-User Machine-Type Communication</title>
+      <link>/publication/journal58/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral and Energy Efficiency Maximization for Content-Centric C-RANs with Edge Caching</title>
+      <link>/publication/journal51/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficiency Maximization for Downlink Cloud Radio Access Networks with Data Sharing and Data Compression</title>
+      <link>/publication/journal48/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy‐Efficient Design for Downlink Cloud Radio Access Networks</title>
+      <link>/publication/conf78/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Optimization of User Association, Data Delivery Rate and Precoding for cache‐enabled F‐RANs</title>
+      <link>/publication/conf76/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path-Following Algorithms for Beamforming and Signal Splitting in RF Energy Harvesting Networks</title>
+      <link>/publication/journal38/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Beamforming for Max‐Min SINR in Multi‐Cell SWIPT Systems</title>
+      <link>/publication/conf65/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Optimization for Max‐Min SINR in Dense Small‐Cell Multiuser MISO SWIPT System</title>
+      <link>/publication/conf60/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Resource Optimization for Heterogeneous Multicell Networks with Wireless Energy Harvesting Relays</title>
+      <link>/publication/journal36/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sum Throughput Maximization for Heterogeneous Multicell Networks with RF‐Powered Relays</title>
+      <link>/publication/conf55/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DC Programming for Power Minimization in a Heterogeneous Network with RF‐Powered Relays</title>
+      <link>/publication/conf53/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf53/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

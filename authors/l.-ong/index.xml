@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Ong | </title>
+    <link>/authors/l.-ong/</link>
+      <atom:link href="/authors/l.-ong/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Ong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Ong</title>
+      <link>/authors/l.-ong/</link>
+    </image>
+    
+    <item>
+      <title>Joint Optimization of User Association, Data Delivery Rate and Precoding for cache‐enabled F‐RANs</title>
+      <link>/publication/conf76/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf76/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

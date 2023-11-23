@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Durrani | </title>
+    <link>/authors/s.-durrani/</link>
+      <atom:link href="/authors/s.-durrani/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Durrani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Durrani</title>
+      <link>/authors/s.-durrani/</link>
+    </image>
+    
+    <item>
+      <title>Effects of Load Dependent Dynamic Biasing and Association Order for Cell Range Expansion</title>
+      <link>/publication/conf67/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWIPT with Practical Modulation and RF Energy Harvesting Sensitivity</title>
+      <link>/publication/conf66/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Probability of Ad Hoc Networks with Wireless Information and Power Transfer</title>
+      <link>/publication/journal29/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parametric Channel Model for Smart Antennas Incorporating Mobile Station Mobility</title>
+      <link>/publication/conf14/</link>
+      <pubDate>Sun, 07 May 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/conf14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

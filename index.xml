@@ -1,0 +1,2111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description></description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 18:35:04 +1100</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title></title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/doc/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/doc/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/doc/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/doc/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematica and Matlab Software for Computing Distance Distributions</title>
+      <link>/software/</link>
+      <pubDate>Sun, 01 Oct 2023 18:35:04 +1100</pubDate>
+      <guid>/software/</guid>
+      <description>&lt;p&gt;During the course of my research, I have written a number of software libraries in collaboration with my students. One of them is now available publicly here and others will be made available in the future.&lt;/p&gt;
+&lt;p&gt;If you use the software in your research, please reference our relevant publication (see details below).&lt;/p&gt;
+&lt;p&gt;If you have any suggestions for improving the software, please email me and we can incorporate this in the software.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-distance-distributions-between-two-random-points-each-uniformly-randomly-distributed-in-arbitrary-concave-or-convex-polygons-with-or-without-holes-released-jan-2021&#34;&gt;&lt;strong&gt;Computing distance distributions between two random points, each uniformly randomly distributed in arbitrary (concave or convex) polygons with or without holes [Released: Jan. 2021]&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathematica Notebooks:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Example1.nb&#34;&gt;Example 1&lt;/a&gt;: Abritrary polygons without holes. Requires Mathematica 11 or higher version.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Example2.nb&#34;&gt;Example 2&lt;/a&gt;: Abritrary polygons with holes. Requires Mathematica 12.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Our &lt;a href=&#34;https://arxiv.org/abs/1903.07757&#34;&gt;paper&lt;/a&gt; is currently under review in Mathematical Methods in Applied Sciences journal (revised: 24 Jan. 2021)&lt;/li&gt;
+&lt;li&gt;Screenshot: &lt;img src=&#34;/fig1.jpg&#34; alt=&#34;fig1&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-distance-distributions-in-arbitrary-convex-or-concave-polygon-regions-with-holes-and-arbitrary-reference-point-released-coming-soon&#34;&gt;&lt;strong&gt;Computing distance distributions in arbitrary (convex or concave) polygon regions with holes and arbitrary reference point [Released: coming soon!]&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;In K-tier heterogeneous networks, the coverage regions are modelled using a multiplicatively weighted Voronoi diagram. This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside or outside an arbitrarily shaped multiplicatively weighted Voronoi cell.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Matlab code (zipped): Developed and tested [Nov. 2014].&lt;/li&gt;
+&lt;li&gt;Mathematica code&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Our paper is still in draft form and I am hoping to write it up in the second half of this year.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Screenshot: &lt;img src=&#34;/fig2.jpg&#34; alt=&#34;fig2&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-exact-closed-form-distance-distributions-in-arbitrary-convex-or-concave-polygon-regions-without-holes-and-arbitrary-reference-point-released-june-2015&#34;&gt;&lt;strong&gt;Computing exact closed-form distance distributions in arbitrary (convex or concave) polygon regions without holes and arbitrary reference point [Released: June 2015]&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside an arbitrary L-sided convex polygon.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mathematica-journal.com/2015/06/computing-exact-closed-form-distance-distributions-in-arbitrarily-shaped-polygons-with-arbitrary-reference-point/&#34;&gt;Mathematica Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Screenshot: &lt;img src=&#34;/fig3.jpg&#34; alt=&#34;fig3&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-exact-closed-form-distance-distributions-in-arbitrary-convex-polygon-regions-with-interior-reference-point&#34;&gt;&lt;strong&gt;Computing exact closed-form distance distributions in arbitrary convex polygon regions with interior reference point&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside an arbitrary L-sided convex polygon.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2014_ieeetcom.pdf&#34;&gt;Our relevant IEEE TCOM paper (see Appendix A)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mathematica Notebook: This will no longer be posted. See our &lt;a href=&#34;http://www.mathematica-journal.com/2015/06/computing-exact-closed-form-distance-distributions-in-arbitrarily-shaped-polygons-with-arbitrary-reference-point/&#34;&gt;Mathematica Notebook&lt;/a&gt;, which can handle both concave and convex polygons.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h4 id=&#34;computing-exact-closed-form-distance-distributions-in-regular-polygon-regions-with-interior-reference-point-released-may-2013&#34;&gt;&lt;strong&gt;Computing exact closed-form distance distributions in regular polygon regions with interior reference point [Released: May 2013]&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;This software computes: (i) the exact closed-form probability density function and (ii) the exact closed-form cumulative density function of the distance between a randomly located node and any arbitrary reference point inside a regular L-sided polygon. These results can be used to obtain the closed-form probability density function of the Euclidean distance between any arbitrary reference point and its nth neighbor node when N nodes are uniformly and independently distributed (i.e. according to a uniform Binomial Point Process) inside a regular L-sided polygon. These distance distributions have many applications in wireless networks. This code is available in both Mathematica and Matlab.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Compute_DistanceDistributions_Polygon_v1_Mathematica.pdf&#34;&gt;PDF of Mathematica Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Compute_DistanceDistributions_Polygon_v1_Mathematica.zip&#34;&gt;Mathematica Notebook (zipped)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_software/Compute_DistanceDistributions_Polygon_v1_Matlab.zip&#34;&gt;Matlab Code (zipped)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetvt.pdf&#34;&gt;Our relevant IEEE TVT paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Applications: &lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2014_ieeetcom.pdf&#34;&gt;IEEE TCOM paper&lt;/a&gt; and &lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2014_ieeetvt.pdf&#34;&gt;IEEE TVT paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani_ausCTW2013.pdf&#34;&gt;Slides for AusCTW 2013 (invited talk)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Screenshot: &lt;img src=&#34;/fig4.jpg&#34; alt=&#34;fig4&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Professional Activities</title>
+      <link>/activities/</link>
+      <pubDate>Sun, 01 Oct 2023 18:35:04 +1100</pubDate>
+      <guid>/activities/</guid>
+      <description>&lt;h4 id=&#34;professional-activities&#34;&gt;&lt;strong&gt;Professional Activities&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Journal Editorial Board&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://host.comsoc.org/transcom/board.html&#34;&gt;IEEE Transactions on Communications&lt;/a&gt;: Feb. 2015 - Dec. 2020.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oldcitypublishing.com/AHSWN/AHSWN.html&#34;&gt;Ad Hoc &amp;amp; Sensor Wireless Networks Journal&lt;/a&gt;: June 2014 - June 2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Session Chair:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;2014 IEEE International Conference on Communications (ICC), Sydney, Australia (Session CT-P1: Communication Theory Interactive Presentations).&lt;/li&gt;
+&lt;li&gt;2007 IEEE PIMRC conference, Athens, Greece (Session 36: Smart Antennas I &amp;amp; Session 62: Selforganization of wireless networks).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Technical Program Committee Member:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;IEEE International Conference on Communications (&lt;strong&gt;ICC&lt;/strong&gt;): 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012.&lt;/li&gt;
+&lt;li&gt;IEEE Vehicular Technology Conference (&lt;strong&gt;VTC&lt;/strong&gt;): 2018, 2017 (spring).&lt;/li&gt;
+&lt;li&gt;IEEE Global Telecommunications Conference (&lt;strong&gt;Globecom&lt;/strong&gt;): 2018, 2017, 2016.&lt;/li&gt;
+&lt;li&gt;IEEE International Conference on Signal Processing and Communication Systems (&lt;strong&gt;ICSPCS&lt;/strong&gt;): 2016, 2015, 2014, 2013.&lt;/li&gt;
+&lt;li&gt;IEEE &lt;strong&gt;Globecom Workshop&lt;/strong&gt; - Emerging Technologies for 5G Wireless Cellular Networks: 2016, 2015, 2014.&lt;/li&gt;
+&lt;li&gt;IEEE &lt;strong&gt;WCNC Workshop&lt;/strong&gt; - Green and Sustainable 5G Wireless  Networks (GRASNET) : 2017.&lt;/li&gt;
+&lt;li&gt;International Conference on Telecommunications (&lt;strong&gt;ICT&lt;/strong&gt;, 23rd &amp;amp; 22nd): 2016, 2015.&lt;/li&gt;
+&lt;li&gt;International Conference on Cognitive Radio Oriented Wireless Networks (&lt;strong&gt;CROWNCOM&lt;/strong&gt;, 10th): 2015.&lt;/li&gt;
+&lt;li&gt;IEEE Personal, Indoor, and Mobile Radio Communication Conference (&lt;strong&gt;PIMRC&lt;/strong&gt;): 2012, 2011.&lt;/li&gt;
+&lt;li&gt;Australian Communications Theory Workshop (&lt;strong&gt;AusCTW&lt;/strong&gt;): 2012, 2011.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference Organising Committee Member&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;2017 Australian Communications Theory Workshop: Finance Chair&lt;/li&gt;
+&lt;li&gt;2005 Australian Communications Theory Workshop: Local Organising Committee.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;External Thesis Examiner&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Examiner for &lt;strong&gt;3&lt;/strong&gt; international PhD thesis
+&lt;ul&gt;
+&lt;li&gt;2021: Lahore University of Management Sciences, Pakistan&lt;/li&gt;
+&lt;li&gt;2018: IIT Guwahati, India&lt;/li&gt;
+&lt;li&gt;2015: University of New Brunswick, Canada&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Examiner for &lt;strong&gt;27&lt;/strong&gt; external PhD thesis:
+&lt;ul&gt;
+&lt;li&gt;2022: UNSW, Adfa&lt;/li&gt;
+&lt;li&gt;2022: University of Sydney&lt;/li&gt;
+&lt;li&gt;2022: RMIT University&lt;/li&gt;
+&lt;li&gt;2022: University of Sydney&lt;/li&gt;
+&lt;li&gt;2021: Flinders University&lt;/li&gt;
+&lt;li&gt;2021: RMIT&lt;/li&gt;
+&lt;li&gt;2021: Macquarie University&lt;/li&gt;
+&lt;li&gt;2020: Monash University&lt;/li&gt;
+&lt;li&gt;2020: RMIT&lt;/li&gt;
+&lt;li&gt;2020: RMIT&lt;/li&gt;
+&lt;li&gt;2020: Univ. of Technology Sydney&lt;/li&gt;
+&lt;li&gt;2019: Univ. of Melbourne&lt;/li&gt;
+&lt;li&gt;2019: Macquarie University&lt;/li&gt;
+&lt;li&gt;2019: Univ. of Melbourne&lt;/li&gt;
+&lt;li&gt;2018: Univ. of Sydney&lt;/li&gt;
+&lt;li&gt;2018: Macquarie University&lt;/li&gt;
+&lt;li&gt;2017: RMIT&lt;/li&gt;
+&lt;li&gt;2016: Univ. of Technology Sydney&lt;/li&gt;
+&lt;li&gt;2016: Monash University&lt;/li&gt;
+&lt;li&gt;2016: Macquarie University&lt;/li&gt;
+&lt;li&gt;2016: Univ. of Melbourne&lt;/li&gt;
+&lt;li&gt;2016: QUT&lt;/li&gt;
+&lt;li&gt;2015: Univ. of Melbourne&lt;/li&gt;
+&lt;li&gt;2015: Univ. of Tasmania&lt;/li&gt;
+&lt;li&gt;2013: QUT&lt;/li&gt;
+&lt;li&gt;2009: QUT&lt;/li&gt;
+&lt;li&gt;2008: Monash University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Examiner for &lt;strong&gt;4&lt;/strong&gt; external MPhil thesis:
+&lt;ul&gt;
+&lt;li&gt;2015: Macquarie University&lt;/li&gt;
+&lt;li&gt;2011: QUT&lt;/li&gt;
+&lt;li&gt;2009: Victoria University&lt;/li&gt;
+&lt;li&gt;2008: University of Queensland&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;technical-reviewer&#34;&gt;&lt;strong&gt;Technical Reviewer&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Journals (17)&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;IEEE Transactions on Wireless Communications&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Communications&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Signal Processing&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Vehicular Technology&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Antennas and Propagation&lt;/li&gt;
+&lt;li&gt;IEEE Journal on Selected Areas in Communications&lt;/li&gt;
+&lt;li&gt;IEEE Communications Letters&lt;/li&gt;
+&lt;li&gt;IEEE Signal Processing Letters&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Aerospace and Electronic Systems&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Green Communications and Networking&lt;/li&gt;
+&lt;li&gt;IEEE Transactions on Information Theory&lt;/li&gt;
+&lt;li&gt;IEEE Sensors Journal&lt;/li&gt;
+&lt;li&gt;IET Communications&lt;/li&gt;
+&lt;li&gt;Journal of Commnications and Networks (Korean)&lt;/li&gt;
+&lt;li&gt;Ad Hoc Networks (Elsevier)&lt;/li&gt;
+&lt;li&gt;Wireless Communications and Mobile Computing (Wiley)&lt;/li&gt;
+&lt;li&gt;EURASIP Journal on Wireless Communications and Networking&lt;/li&gt;
+&lt;li&gt;International Journal of Antennas and Propagation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conferences&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;IEEE International Conference on Communications (&lt;strong&gt;ICC&lt;/strong&gt;): 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2006, 2005, 2004.&lt;/li&gt;
+&lt;li&gt;IEEE Global Telecommunications Conference (&lt;strong&gt;Globecom&lt;/strong&gt;): 2019, 2018 2017, 2016.&lt;/li&gt;
+&lt;li&gt;IEEE Vehicular Technology Conference (&lt;strong&gt;VTC&lt;/strong&gt;): Spring 2018, 2017, 2010, 2009, 2007, 2006 and Fall 2019, 2017, 2012, 2011,2010,2008.&lt;/li&gt;
+&lt;li&gt;International Conference on Signal Processing and Communication Systems (&lt;strong&gt;ICSPCS&lt;/strong&gt;): 2012, 2011, 2010, 2009, 2008.&lt;/li&gt;
+&lt;li&gt;IEEE/CIC International Conference on Communications in China (&lt;strong&gt;ICCC&lt;/strong&gt;): 2014.&lt;/li&gt;
+&lt;li&gt;IEEE Wireless Days Conference (WD,7th): 2014.&lt;/li&gt;
+&lt;li&gt;IEEE Online Conference on Green Communications (&lt;strong&gt;OnlineGreenComm&lt;/strong&gt;): 2013.&lt;/li&gt;
+&lt;li&gt;International Conference on ICT Convergence (&lt;strong&gt;ICTC&lt;/strong&gt;): 2012.&lt;/li&gt;
+&lt;li&gt;IEEE International Conference on Communication Systems (&lt;strong&gt;ICCS&lt;/strong&gt;): 2012.&lt;/li&gt;
+&lt;li&gt;IEEE International Symposium on Information Theory (&lt;strong&gt;ISIT&lt;/strong&gt;): 2011.&lt;/li&gt;
+&lt;li&gt;International Symposium on Communications and Information Technologies (&lt;strong&gt;ISCIT&lt;/strong&gt;): 2007.&lt;/li&gt;
+&lt;li&gt;Australian Communications Theory Workshop (&lt;strong&gt;AusCTW&lt;/strong&gt;): 2016, 2014, 2010, 2008, 2007, 2006.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;selected-presentationsr&#34;&gt;&lt;strong&gt;Selected Presentationsr&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&amp;ldquo;Design of NOMA Enhanced Backscatter Communications&amp;rdquo;, &lt;strong&gt;AusCTW&lt;/strong&gt;, Newcastle, Feb. 2018. [Slides]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Energy Harvesting for Wireless Sensor Networks: Myth or Reality?&amp;quot;, &lt;strong&gt;EECS Seminar, University of Newcastle&lt;/strong&gt;, April 2016.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Call Completion Probability in Heterogeneous Networks with Energy Harvesting Base Stations&amp;rdquo;, &lt;strong&gt;22nd IEEE ICT&lt;/strong&gt;, April 2015. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani_ICT2015.pdf&#34;&gt;Slides&lt;/a&gt;].&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Distance Distributions and Boundary Effects in Finite Uniformly Random Networks&amp;rdquo;, &lt;strong&gt;AusCTW&lt;/strong&gt;, Adelaide, Feb. 2013. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani_ausCTW2013.pdf&#34;&gt;Slides&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Distance Distributions in a Square Region&amp;rdquo;, Department of Electrical &amp;amp; Computer Engineering Seminar, &lt;strong&gt;Queen&amp;rsquo;s University&lt;/strong&gt;, Canada, Sep. 2012.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Distance Distributions and Border Effects in a Unit Square&amp;rdquo;, &lt;a href=&#34;https://eng.anu.edu.au/seminars/more/SID/3079&#34;&gt;ASP Seminar Series&lt;/a&gt;, ANU, May 2012.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Blind Timing and Carrier Synchronization in Decode and Forward Cooperative Systems&amp;rdquo;, Statistical Signal Processing Laboratory Seminar, &lt;strong&gt;The University of British Columbia&lt;/strong&gt;, Canada, Sep. 2010.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Blind Timing and Carrier Synchronization in Decode and Forward Cooperative Systems&amp;rdquo;, &lt;a href=&#34;http://www.sce.carleton.ca/dept/departmentNews/BCWS17.pdf&#34;&gt;BCWS Seminar Series&lt;/a&gt;, Carleton University, Ottawa, Canada, Sep. 2010.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Blind Timing and Carrier Synchronization in Distributed MIMO Communication Systems&amp;rdquo;, &lt;a href=&#34;http://cecs.anu.edu.au/seminars/more/SID/2635&#34;&gt;ASP Seminar Series&lt;/a&gt;, The Australian National University, August 2010.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Connectivity of Wireless Ad hoc Networks&amp;rdquo;, Workshop on Wireless Communications (invited talk), The University of Engineering &amp;amp; Technology, Lahore, Pakistan, Dec. 2009. [&lt;a href=&#34;http://www.uet.edu.pk/newsannouncement/newssection/window.html?RID=wworkshop_ad_7_DEC_09&#34;&gt;Slides&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Analysing Connectivity of Wireless Ad hoc Networks with Beamforming&amp;rdquo;, &lt;a href=&#34;http://cecs.anu.edu.au/seminars/showone.pl?SID=572&#34;&gt;InfoEng Seminar Series&lt;/a&gt;, The Australian National University, June 2009. [&lt;a href=&#34;http://users.rsise.anu.edu.au/~seminars/2009_06_04_durrani.mov&#34;&gt;Video&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Parametric Channel Modelling for Wireless Systems&amp;rdquo;, InfoEng Seminar Series, The Australian National University, May 2008. [&lt;a href=&#34;http://users.rsise.anu.edu.au/~seminars/2008_05_02_durrani.mov&#34;&gt;Video&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Statistical Properties of a Parametric Channel Model for Multiple Antenna Systems&amp;rdquo;, &lt;strong&gt;IEEE PIMRC&lt;/strong&gt;, Sep. 2007. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani_PIMRC2007.pdf&#34;&gt;Slides&lt;/a&gt; (382K)]&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;student-mentoring&#34;&gt;&lt;strong&gt;Student Mentoring&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://studentdb.rsise.anu.edu.au/student_advisors.cgi&#34;&gt;PhD Student Advisor&lt;/a&gt;, College of Engineering and Computer Science, ANU, 2006-present.&lt;/li&gt;
+&lt;li&gt;Program Advisor (supporting to Associate Dean Undergraduate), Department of Engineering, ANU, 2005-2008.&lt;/li&gt;
+&lt;li&gt;Student Mentor, Bachelor of Engineering (Research and Development) degree program, Department of Engineering, ANU, 2007-present.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;professional-memberships&#34;&gt;&lt;strong&gt;Professional Memberships&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Senior Member Institute of Electrical &amp;amp; Electronics Engineers, USA (S’01-M’05-SM&amp;rsquo;10).&lt;/li&gt;
+&lt;li&gt;Member of IEEE Communications Society, IEEE Signal Processing Society and IEEE Vehicular Technology Society.&lt;/li&gt;
+&lt;li&gt;Member Institution of Engineers, Australia (MIEAust, Professional Engineer).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Group</title>
+      <link>/people/</link>
+      <pubDate>Sun, 01 Oct 2023 18:35:04 +1100</pubDate>
+      <guid>/people/</guid>
+      <description>&lt;h3 id=&#34;current-phd-students&#34;&gt;&lt;strong&gt;Current PhD Students&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Muhammad Usman&lt;/strong&gt;, Machine Learning for Wireless Networks, commencing in 2023
+&lt;ul&gt;
+&lt;li&gt;Scholarship(s): &lt;a href=&#34;https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-university-research-scholarships&#34;&gt;ANU University Research Scholarship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-supervisor: To be advised.&lt;/li&gt;
+&lt;li&gt;Joint PhD publication outcomes: To do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Saud Khan&lt;/strong&gt;, Security and Privacy for Internet of Things (IoT) Devices, Jan. 2020 ‐ present
+&lt;ul&gt;
+&lt;li&gt;Scholarship(s): &lt;a href=&#34;http://www.anu.edu.au/students/scholarships-fees/scholarships/australian-government-research-training-program-agrtp&#34;&gt;Australian Government Research Training Program (AGRTP) Stipend Scholarship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-supervisor: To be advised.&lt;/li&gt;
+&lt;li&gt;Joint PhD publication outcomes: 2 journal papers (under review) + 1 conference paper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Akram Shafie&lt;/strong&gt;, Security and Privacy for Internet of Things (IoT) Devices, Jun. 2020 - present
+&lt;ul&gt;
+&lt;li&gt;Scholarship(s): &lt;a href=&#34;http://www.anu.edu.au/students/scholarships-fees/scholarships/australian-government-research-training-program-agrtp&#34;&gt;Australian Government Research Training Program (AGRTP) Stipend Scholarship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-supervisor: To be advised.&lt;/li&gt;
+&lt;li&gt;Joint PhD publication outcomes: 2 journal papers + 2 conference paper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nilupuli Senadhira&lt;/strong&gt;, UAV Networks, Jun. 2018 - present
+&lt;ul&gt;
+&lt;li&gt;Scholarship(s): &lt;a href=&#34;http://www.anu.edu.au/students/scholarships-fees/scholarships/australian-government-research-training-program-agrtp&#34;&gt;Australian Government Research Training Program (AGRTP) Stipend Scholarship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Co-supervisor: Dr. Nan Yang and Dr. Xiangyun Zhou.&lt;/li&gt;
+&lt;li&gt;Joint PhD publication outcomes: 2 Journal papers (1 draft) + 2 conference papers (1 under review).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;graduated-phd-students&#34;&gt;&lt;strong&gt;Graduated PhD Students&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sahar Idrees&lt;/strong&gt;, Backscatter Communications, March 2018 - Aug. 2023&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheeraz Akhtar Alvi&lt;/strong&gt;, Analysis and Design of Communication Policies for Energy-Constrained Machine-Type Devices, July 2016 - June 2020. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Sheeraz_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Xiaohui Zhou&lt;/strong&gt;, Analysis and Design of Communication Policies for Energy-Constrained Machine-Type Devices, July 2016 - June 2020. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Sheeraz_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Abbas Koohian&lt;/strong&gt;, Channel Estimation and Self-Interference Cancellation in Full-Duplex Communication Systems, May 2015 - May 2019. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Sheeraz_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wanchun Liu&lt;/strong&gt;, Wireless Communication Networks Powered By Energy Harvesting, July 2014 - Sep. 2017. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Wanchun_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yifei Huang&lt;/strong&gt;, Interference Management in 5G Networks, March 2014 - May 2017. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Yifei_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jing Guo&lt;/strong&gt;, Stochastic Geometry for Modeling, Analysis and Design of Future Wireless Networks, Sep. 2012 - March 2016. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Jing_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shama Islam&lt;/strong&gt;, Multi-way Relay Networks: Characterization, Performance Analysis and Transmission Scheme Design, May 2015. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Shama_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Zubair Khalid&lt;/strong&gt;, Spatio-Spectral Analysis on the Unit Sphere, April 2010 - April 2013. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Zubair_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ali Nasir&lt;/strong&gt;, Synchronization in Cooperative Communication Systems, June 2010 - Sep. 2012. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Ali_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Xiangyun Zhou&lt;/strong&gt;, Transmission Resouce Allocation in Multi-Antenna Wireless Communication Systems with Channel Uncertainty, Jan. 2010 - June 2012. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Xiangyun_Thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sheeraz Akhtar Alvi&lt;/strong&gt;, Analysis and Design of Communication Policies for Energy-Constrained Machine-Type Devices, July 2016 - June 2020. [&lt;a href=&#34;https://users.cecs.anu.edu.au/~Salman.Durrani/_PhD/Sheeraz_thesis.pdf&#34;&gt;Thesis&lt;/a&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
+      <link>/publication/conf93/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/conf93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Performance Analysis of Cache‐Enabled Multicast in UAV‐Enhanced Cellular Networks</title>
+      <link>/publication/journal73/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal73/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Active and Passive Beamforming for IRS‐assisted Monostatic Backscatter Systems: An Unsupervised Learning Approach</title>
+      <link>/publication/journal72/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
+      <link>/publication/journal69/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 04 Jun 2023 19:36:44 +1000</pubDate>
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
+      <link>/publication/journal70/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Multiuser Access for UAV-assisted IoT Monitoring Networks Under Bursty Traffic</title>
+      <link>/publication/conf92/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/conf92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
+      <link>/publication/journal71/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal71/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have been promoted to Full Professor! I would like to thank all my students and collaborators, whose success and hard work is a big part of this outcome!</title>
+      <link>/post/news14/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/post/news14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
+      <link>/publication/journal67/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Intelligent Reflecting Surface (IRS)-Boosted Ambient Backscatter Systems</title>
+      <link>/publication/journal65/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Efficiency Optimization for Multiple Access in NOMA-Enabled Space-Air-Ground Networks</title>
+      <link>/publication/journal68/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal68/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Sub-band Bandwidth-Enabled Spectrum Allocation for Terahertz Communication Systems</title>
+      <link>/publication/conf89/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/conf89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Based Passive Beamforming for IRS-assisted Monostatic Backscatter Systems</title>
+      <link>/publication/conf88/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/conf88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning Cost Disparity for IoT Devices</title>
+      <link>/publication/conf91/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/conf91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWIPT-Enabled Cellular-Connected UAV: Energy Harvesting and Data Transmission</title>
+      <link>/publication/conf90/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/conf90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning Cost Disparity for IoT Devices</title>
+      <link>/publication/journal66/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have been recognized as [AI 2000 Internet of Things (IoT) Most Influential Scholars Honorable Mention](https://users.cecs.anu.edu.au/~Salman.Durrani/_images/2022IoT.png) (ranked 46th in Internet of Things (IoT) over the past 10 years (2012–2021).</title>
+      <link>/post/news13/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/news13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interested in using PySpice (Python) for simulating electric circuits? See [Youtube Playlist](https://www.youtube.com/watch?v=KnA7xI7MAuI&amp;list=PL6JL9fVjrZLcqixnvq9wUpG1xNGrIRH8j).</title>
+      <link>/post/news12/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/post/news12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning Based Detection for Intelligent Reflecting Surface Aided Communications</title>
+      <link>/publication/conf87/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conf87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Student Saud Khan awarded CSIRO Postgraduate Top-Up Scholarship ($7K/annum &#43; $6K PD fund).</title>
+      <link>/post/news11/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/post/news11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
+      <link>/publication/journal61/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal61/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
+      <link>/publication/journal62/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am a Guest Editor for Frontiers research topic on [Spatial stochastic models for 5G and beyond systems](https://www.frontiersin.org/research-topics/19135/spatial-stochastic-models-for-5g-and-beyond-systems). Submission deadline: 30 June 2021.</title>
+      <link>/post/news10/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/post/news10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am Guest Editor for IEEE OJ-COMS Special Issue on Wireless Powered Communications for [Future Wireless Networks](https://www.comsoc.org/publications/journals/ieee-ojcoms/cfp/wireless-powered-communications-future-wireless-networks). Submission deadline: 30-03-2021.</title>
+      <link>/post/news9/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/post/news9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematica code to compute distance distributions between two random points, each uniformly randomly distributed in arbitrary (concave or convex) polygons with or without holes is now [posted](http://users.cecs.anu.edu.au/~Salman.Durrani/software.html).</title>
+      <link>/post/news8/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/post/news8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My instructional problem solving videos, to accompany first year ENGN1218 Introduction to Electronics course, are available on my [Youtube Channel](https://www.youtube.com/channel/UCn5Hpio6i2SNpETUeemKWuw/). The You vs Circuits gamification approach used in the course teaching and learning activities is profiled in the ANU CLT Interact Newsletter [here](https://interact.weblogs.anu.edu.au/2020/10/07/combining-poll-everywhere-with-pedagogy/).</title>
+      <link>/post/news7/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/news7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
+      <link>/publication/journal60/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Retrodirective Wireless Power Transfer Scheme for Ambient Backscatter Systems</title>
+      <link>/publication/conf84/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conf84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Terahertz Communication Systems with Blockage and Directional Antennas</title>
+      <link>/publication/conf86/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conf86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of UAV Trajectory on NOMA-Assisted Cellular-Connected UAV Networks</title>
+      <link>/publication/conf85/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conf85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proportionally-Fair Sequencing and Scheduling for Machine-Type Communication</title>
+      <link>/publication/conf83/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conf83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uplink NOMA for Cellular-Connected UAV: Impact of UAV Trajectories and Altitude</title>
+      <link>/publication/journal59/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have been recognized as AI 2000 Internet of Things (IoT) Most Influential Scholars Honorable Mention (ranked 42nd in Internet of Things (IoT) over the past 10 years (2009–2019)).</title>
+      <link>/post/news6/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/news6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequencing and Scheduling for Multi-User Machine-Type Communication</title>
+      <link>/publication/journal58/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drone-Assisted Multihop Multicast Device-to-Device Networks for Emergency Information Dissemination</title>
+      <link>/publication/journal57/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal57/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Powered Machine-Type Communication: Energy Minimization via Compressed Transmission</title>
+      <link>/publication/conf82/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conf82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monostatic Backscatter System with Multi-Tag to Reader Communication</title>
+      <link>/publication/journal56/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have been awarded a [Special Commendation](https://users.cecs.anu.edu.au/~Salman.Durrani/_images/acgr.jpg) in the [2019 ACGR Award for Excellence in Graduate Supervision](https://www.acgr.edu.au/about/awards-for-excellence/). [[Photo](https://users.cecs.anu.edu.au/~Salman.Durrani/_images/DSC_0309.JPG)].</title>
+      <link>/post/news5/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/post/news5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
+      <link>/publication/journal64/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Channel and Phase Noise Estimation for mmWave Full-Duplex Communication Systems</title>
+      <link>/publication/journal53/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://spectrum.chat/academic&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Lifetime Maximization Scheme for a Sensor-Based MTC Device</title>
+      <link>/publication/conf81/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> I gave a talk at the inaugural [ANU TELfest](https://telfest.weblogs.anu.edu.au/). My slides are available [here](http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani%20Telfest%20Nov2018.pdf) and presentation is available on [YouTube](https://www.youtube.com/watch?v=XXuyRHYoETI).</title>
+      <link>/post/news4/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/post/news4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underlay Drone Cell for Temporary Events: Impact of Drone Height and Aerial Channel Environments</title>
+      <link>/publication/journal55/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Compression and Transmission Rate Control for Node-Lifetime Maximization</title>
+      <link>/publication/journal50/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral and Energy Efficiency Maximization for Content-Centric C-RANs with Edge Caching</title>
+      <link>/publication/journal51/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Non-orthogonal Multiple Access Enhanced Backscatter Communication</title>
+      <link>/publication/journal49/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backscatter Communications with NOMA</title>
+      <link>/publication/conf80/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Former PhD student Wanchun Liu wins the [2017 Chinese Government Award for Outstanding Self-Financed Students Abroad](https://users.cecs.anu.edu.au/~Salman.Durrani/_photos/Wanchun_certificate.pdf).</title>
+      <link>/post/news3/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/post/news3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Power Transfer via mmWave Power Beacons with Directional Beamforming</title>
+      <link>/publication/journal52/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficiency Maximization for Downlink Cloud Radio Access Networks with Data Sharing and Data Compression</title>
+      <link>/publication/journal48/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy‐Efficient Design for Downlink Cloud Radio Access Networks</title>
+      <link>/publication/conf78/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have been awarded the [ANU VC Award for Excellence in Supervision](http://www.anu.edu.au/news/all-news/recognising-excellence-the-2018-vcs-awards-for-excellence). I would like to thank all my students (past and present), academics in the Communications research group and research collaborators for their support and hard work that is recognised in this award.</title>
+      <link>/post/news2/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/post/news2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uplink Coverage Performance of an Underlay Drone Cell for Temporary Events</title>
+      <link>/publication/conf79/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing CRDSA with Transmit Power Diversity for Machine-Type Communication</title>
+      <link>/publication/journal47/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Optimization of User Association, Data Delivery Rate and Precoding for cache‐enabled F‐RANs</title>
+      <link>/publication/conf76/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine‐Type Communication with Random Access and Data Aggregation: A Stochastic Geometry Approach</title>
+      <link>/publication/conf75/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf75/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time‐Hopping Multiple‐Access for Backscatter Interference Networks</title>
+      <link>/publication/conf77/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Beacon-Assisted Millimeter Wave Ad Hoc Networks</title>
+      <link>/publication/journal46/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Framework for Access Class Barring in Machine Type Communication</title>
+      <link>/publication/conf74/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underlay D2D Communication in a Finite Cellular Network with Exclusion Zone</title>
+      <link>/publication/conf73/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf73/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Base Station Preference Association with Network Dynamics</title>
+      <link>/publication/conf72/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massive Machine Type Communication with Data Aggregation and Resource Scheduling</title>
+      <link>/publication/journal44/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of Aggregate Received Power from Power Beacons in Millimeter Wave Ad Hoc Networks</title>
+      <link>/publication/conf71/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf71/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our edited book on wireless power transfer (over 11,000&#43; chapter downloads to date) is now published by [Springer](https://link.springer.com/book/10.1007/978-3-319-56669-6) [[Downloads](http://www.bookmetrix.com/detail/book/93f5d1fb-b0f7-4953-9a6c-29450962aced#downloads)].</title>
+      <link>/post/news1/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/post/news1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Self‐interference Cancellation and Data Detection in Full‐Duplex Communication Systems</title>
+      <link>/publication/conf70/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Receiver Design with Joint Coherent and Non-Coherent Processing</title>
+      <link>/publication/journal43/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-Duplex Backscatter Interference Networks Based on Time-Hopping Spread Spectrum</title>
+      <link>/publication/journal42/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Spatial Dimensionality of Gauss‐Legendre and Equiangular Sampling Schemes on the Sphere</title>
+      <link>/publication/conf69/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Generation Backscatter Communication: Systems, Techniques and Applications</title>
+      <link>/publication/journal54/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superimposed Signaling Inspired Channel Estimation in Full-Duplex Systems</title>
+      <link>/publication/journal45/</link>
+      <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Proposed Network Balance Index for Heterogeneous Networks</title>
+      <link>/publication/journal41/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Load Dependent Dynamic Biasing and Association Order for Cell Range Expansion</title>
+      <link>/publication/conf67/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Analysis of Underlaid Multi‐Antenna D2D Communication in Cellular Networks</title>
+      <link>/publication/conf68/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf68/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Device-to-Device Communication Underlaying a Finite Cellular Network Region</title>
+      <link>/publication/journal40/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SER Analysis of Lattice Coded Multi-way Relay Networks in the Presence of Imperfect Channel Estimation</title>
+      <link>/publication/journal39/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing and Carrier Synchronization in Wireless Communication Systems: A Survey and Classification of Research in the Last 5 Years</title>
+      <link>/publication/journal35/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mode Selection, Resource Allocation and Power Control for D2D-Enabled Two-Tier Cellular Network</title>
+      <link>/publication/journal37/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path-Following Algorithms for Beamforming and Signal Splitting in RF Energy Harvesting Networks</title>
+      <link>/publication/journal38/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWIPT with Practical Modulation and RF Energy Harvesting Sensitivity</title>
+      <link>/publication/conf66/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non‐Coherent FSK: An Attractive Modulation Set for Millimeter‐Wave Communications</title>
+      <link>/publication/conf64/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Beamforming for Max‐Min SINR in Multi‐Cell SWIPT Systems</title>
+      <link>/publication/conf65/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Harvesting Wireless Sensor Networks: Delay Analysis Considering Energy Costs of Sensing and Transmission</title>
+      <link>/publication/journal34/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Generalization of Power Control in Multiuser Interference Channels</title>
+      <link>/publication/conf63/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi‐pair Two‐way Relay Networks: Interference Management Using Lattice Codes and Amplify and Compute Relaying</title>
+      <link>/publication/conf62/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative Optimization for Max‐Min SINR in Dense Small‐Cell Multiuser MISO SWIPT System</title>
+      <link>/publication/conf60/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of Wireless‐Powered Sensor Transmission Considering Energy Cost of Sensing</title>
+      <link>/publication/conf61/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf61/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gauss-Legendre Sampling on the Rotation Group</title>
+      <link>/publication/journal33/</link>
+      <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interference Nulling for Offloaded Heterogeneous Users Using Macro Generalized Inverse Precoder</title>
+      <link>/publication/conf58/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless‐Powered Friendly Jammer for Physical Layer Security</title>
+      <link>/publication/conf59/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Communication with a Wireless-Powered Friendly Jammer</title>
+      <link>/publication/journal32/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Resource Optimization for Heterogeneous Multicell Networks with Wireless Energy Harvesting Relays</title>
+      <link>/publication/journal36/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel User Pairing Scheme for Functional Decode-and-Forward Multi-way Relay Network</title>
+      <link>/publication/journal31/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Comparison of Device‐to‐Device Mode Selection Schemes</title>
+      <link>/publication/conf57/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf57/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of Maximum Ratio Transmission in Ad Hoc Networks with Wireless Energy Harvesting</title>
+      <link>/publication/journal30/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Block‐Wise Time‐Switching Energy Harvesting Protocol for Wireless‐Powered AF Relays</title>
+      <link>/publication/conf56/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Exact Closed-Form Distance Distributions in Arbitrarily-Shaped Polygons with Arbitrary Reference Point</title>
+      <link>/publication/journal28/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sum Throughput Maximization for Heterogeneous Multicell Networks with RF‐Powered Relays</title>
+      <link>/publication/conf55/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Probability of Ad Hoc Networks with Wireless Information and Power Transfer</title>
+      <link>/publication/journal29/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Call Completion Probability in Heterogeneous Networks with Energy Harvesting Base Stations</title>
+      <link>/publication/conf54/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DC Programming for Power Minimization in a Heterogeneous Network with RF‐Powered Relays</title>
+      <link>/publication/conf53/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi‐group Multi‐way Relaying with Multi‐stage Non‐Regenerative Relay Stations</title>
+      <link>/publication/conf52/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interference Suppression using Generalized Inverse Precoder for Downlink Heterogeneous Networks</title>
+      <link>/publication/journal27/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless-Powered Relays in Cooperative Communications: Time-Switching Relaying Protocols and Throughput Analysis</title>
+      <link>/publication/journal26/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of Arbitrarily-Shaped Underlay Cognitive Networks: Effect of Secondary User Activity Protocols</title>
+      <link>/publication/journal25/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimum Power Allocation for Sum Rate Improvement in AF Multi‐way Relay Networks</title>
+      <link>/publication/conf51/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of Arbitrarily‐Shaped Underlay Cognitive Networks: Effect of Secondary User Activity Protocols</title>
+      <link>/publication/conf50/</link>
+      <pubDate>Mon, 08 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel, Phase Noise, and Frequency Offset in OFDM Systems: Joint Estimation, Data Detection, and Hybrid Cramer-Rao Lower Bound</title>
+      <link>/publication/journal24/</link>
+      <pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Pairing Scheme to Reduce Error Propagation in an Amplify and Forward Multi‐way Relay Network</title>
+      <link>/publication/conf48/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Multi‐Resolution Windowing Technique for Localized Spatio‐Spectral Analysis</title>
+      <link>/publication/conf49/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Throughput and Ergodic capacity of Wireless Energy Harvesting Based DF Relaying Network</title>
+      <link>/publication/conf46/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training‐Based Synchronization and Channel Estimation in AF Two‐Way Relaying Networks</title>
+      <link>/publication/conf47/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Fractional Frequency Reuse Method for Self‐Organizing Smallcell Network</title>
+      <link>/publication/conf45/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Choice of Window for Spatial Smoothing of Spherical Data</title>
+      <link>/publication/conf44/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Probability in Arbitrarily-Shaped Finite Wireless Networks</title>
+      <link>/publication/journal22/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tractable Framework for Exact Probability of Node Isolation and Minimum Node Degree Distribution in Finite Multi-hop Networks</title>
+      <link>/publication/journal23/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error Performance Analysis of AF and DF Multi-way Relay Networks with BPSK Modulation</title>
+      <link>/publication/journal21/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio‐spectral Formulation and Design of Spatially‐Varying Filters for Signal Estimation on the 2‐Sphere</title>
+      <link>/publication/conf43/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conf43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaying Protocols for Wireless Energy Harvesting and Information Processing</title>
+      <link>/publication/journal19/</link>
+      <pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Training Sequences for Joint Timing Synchronization and Channel Estimation in Distributed Communication Networks</title>
+      <link>/publication/journal20/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSTBC based DF Cooperative Networks in the Presence of Timing and Frequency Offsets</title>
+      <link>/publication/conf42/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conf42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance study of compressive sampling for ECG signal compression in noisy and varying sparsity acquisition</title>
+      <link>/publication/conf41/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conf41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transceiver Design for Distributed STBC Based AF Cooperative Networks in the Presence of Timing and Frequency Offsets</title>
+      <link>/publication/journal18/</link>
+      <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Directional Spatially Localized Spherical Harmonic Transform</title>
+      <link>/publication/journal16/</link>
+      <pubDate>Fri, 15 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance Distributions in Regular Polygons</title>
+      <link>/publication/journal17/</link>
+      <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity of Three-Dimensional Wireless Sensor Networks Using Geometrical Probability</title>
+      <link>/publication/conf40/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conf40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Efficient Energy Curtailment Scheme For Outage Management in Smart Grid</title>
+      <link>/publication/conf39/</link>
+      <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/conf39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially Varying Spectral Filtering of Signals on the Unit Sphere</title>
+      <link>/publication/journal15/</link>
+      <pubDate>Tue, 16 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of Synchronization Parameters in AF Cooperative Networks</title>
+      <link>/publication/conf38/</link>
+      <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/conf38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambiguity function and Wigner distribution on the sphere</title>
+      <link>/publication/conf36/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/conf36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration uncertainty principles for signals on the unit sphere</title>
+      <link>/publication/conf37/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/conf37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conjugate gradient algorithm for extrapolation of sampled bandlimited signals on the 2‐sphere</title>
+      <link>/publication/conf35/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/conf35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle Filters for Joint Timing and Carrier Estimation: Improved Resampling Guidelines and Weighted Bayesian Cramer-Rao Bounds</title>
+      <link>/publication/journal14/</link>
+      <pubDate>Mon, 05 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving Cooperative Diversity with Multiple Frequency Offset Estimation</title>
+      <link>/publication/conf33/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conf33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Slepian Concentration Problem on the Sphere for Azimuthally Non‐Symmetric Regions</title>
+      <link>/publication/conf34/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conf34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-spectral Analysis of Signals on the Sphere Using Spatially Localized Spherical Harmonics Transform</title>
+      <link>/publication/journal13/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing and Carrier Synchronization with Channel Estimation in Multi-Relay Cooperative Networks</title>
+      <link>/publication/journal12/</link>
+      <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Timing and Carrier Synchronization in Decode and Forward Cooperative Systems</title>
+      <link>/publication/conf32/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conf32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture Kalman Filtering for joint carrier recovery and channel estimation in time‐selective Rayleigh fading channels</title>
+      <link>/publication/conf30/</link>
+      <pubDate>Sun, 22 May 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conf30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the construction of low‐pass filters on the unit sphere</title>
+      <link>/publication/conf31/</link>
+      <pubDate>Sun, 22 May 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conf31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Timing and Carrier Synchronization in Distributed MIMO Communication Systems</title>
+      <link>/publication/journal11/</link>
+      <pubDate>Wed, 04 May 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Particle Filter for Joint Blind Carrier Frequency Offset Estimation and Data Detection</title>
+      <link>/publication/conf29/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/conf29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency Prioritised Queuing in Real‐Time Electrocardiograph Systems</title>
+      <link>/publication/conf28/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/conf28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Mobility on Connectivity of Vehicular Ad Hoc Networks</title>
+      <link>/publication/conf27/</link>
+      <pubDate>Mon, 06 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/conf27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Fractionally Spaced Equalization and Timing Synchronization in Wireless Fading Channels</title>
+      <link>/publication/conf26/</link>
+      <pubDate>Fri, 21 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/conf26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of Coarse and Fine Timing Synchronization in OFDM Receivers</title>
+      <link>/publication/conf25/</link>
+      <pubDate>Fri, 21 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/conf25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-way Training: Optimal Power Allocation for Pilot and Data Transmission</title>
+      <link>/publication/journal10/</link>
+      <pubDate>Fri, 05 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/journal10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified Constant Modulus Algorithm for Joint Blind Equalization and Synchronization</title>
+      <link>/publication/conf24/</link>
+      <pubDate>Tue, 02 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/conf24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Training‐Based Transmission for Correlated MIMO Systems with Hybrid Feedback</title>
+      <link>/publication/conf23/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/conf23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity Analysis of Wireless Ad hoc Networks with Beamforming</title>
+      <link>/publication/journal09/</link>
+      <pubDate>Fri, 26 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Antenna Configuration for MIMO Systems with Imperfect Channel Estimation</title>
+      <link>/publication/journal07/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Guidelines for Pilot Transmission in MIMO Systems with Feedback</title>
+      <link>/publication/journal08/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity of Ad Hoc Networks: Is Fading Good or Bad?</title>
+      <link>/publication/conf22/</link>
+      <pubDate>Mon, 15 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/conf22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capacity of MIMO Systems: Impact of Spatial Correlation with Channel Estimation Errors</title>
+      <link>/publication/conf21/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/conf21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity of Wireless Ad Hoc Networks with Random Beamforming: An Analytical Approach</title>
+      <link>/publication/conf20/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/conf20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing PSAM Schemes: How Optimal are SISO Pilot Parameters for Spatially Correlated SIMO?</title>
+      <link>/publication/conf19/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/conf19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Study of Connectivity in Wireless Ad hoc Networks with Random Beamforming</title>
+      <link>/publication/conf18/</link>
+      <pubDate>Mon, 17 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/conf18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical properties of a parametric channel model for multiple antenna systems</title>
+      <link>/publication/conf17/</link>
+      <pubDate>Mon, 03 Sep 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/conf17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect Of Beamforming On The Connectivity Of Ad Hoc Networks</title>
+      <link>/publication/conf16/</link>
+      <pubDate>Mon, 05 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/conf16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIMO Capacity for Spatial Channel Model Scenarios</title>
+      <link>/publication/conf15/</link>
+      <pubDate>Mon, 05 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/conf15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parametric Channel Model for Smart Antennas Incorporating Mobile Station Mobility</title>
+      <link>/publication/conf14/</link>
+      <pubDate>Sun, 07 May 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/conf14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Performance of MIMO Systems from an Electromagnetic Perspective</title>
+      <link>/publication/journal06/</link>
+      <pubDate>Thu, 27 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/journal06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Electromagnetic Model for Understanding the Operation of a MIMO System</title>
+      <link>/publication/conf13/</link>
+      <pubDate>Sun, 03 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/conf13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Line of Sight Propagation on Capacity of an Indoor MIMO System</title>
+      <link>/publication/conf12/</link>
+      <pubDate>Sun, 03 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/conf12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Analyzing the Performance of MIMO Systems from the Microwave Perspective</title>
+      <link>/publication/conf11/</link>
+      <pubDate>Sun, 12 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/conf11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the error performance of adaptive array antennas for CDMA with noncoherent M-ary orthogonal modulation in Nakagami fading</title>
+      <link>/publication/journal05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/journal05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Model for Performance Evaluation of a Smart Antenna in a CDMA System</title>
+      <link>/publication/conf10/</link>
+      <pubDate>Mon, 30 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/conf10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of Hierarchical Beamforming in a Rayleigh Fading Environment with Angle Spread</title>
+      <link>/publication/conf09/</link>
+      <pubDate>Tue, 17 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/conf09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Angular Energy Distribution of an Incident Signal on the Spatial Fading Correlation of a Uniform Linear Array</title>
+      <link>/publication/conf08/</link>
+      <pubDate>Mon, 17 May 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/conf08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of mutual coupling on the interference rejection capabilities of linear and circular arrays in CDMA systems</title>
+      <link>/publication/journal04/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/journal04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of Beamforming in Ricean Fading Channels for CDMA Systems</title>
+      <link>/publication/conf07/</link>
+      <pubDate>Wed, 04 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/conf07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Smart Antenna Model Incorporating an Azimuthal Dispersion of Received Signals at the Base Station of a CDMA System</title>
+      <link>/publication/conf06/</link>
+      <pubDate>Mon, 08 Dec 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/conf06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BER Performance of a Smart Antenna System for IS‐95 CDMA</title>
+      <link>/publication/conf05/</link>
+      <pubDate>Sun, 22 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/conf05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of the Performance of Smart Antennas in the Reverse Link of CDMA System</title>
+      <link>/publication/conf04/</link>
+      <pubDate>Sun, 08 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/conf04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation into the interference rejection capability of a linear array in a wireless communications system</title>
+      <link>/publication/journal03/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/journal03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Mutual Coupling on the Interference Rejection Capabilities of a Linear Array Antenna</title>
+      <link>/publication/conf03/</link>
+      <pubDate>Tue, 19 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/conf03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigation into the Performance of an Adaptive Array in a Cellular Environment</title>
+      <link>/publication/conf02/</link>
+      <pubDate>Sun, 16 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/conf02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interference rejection capabilities of different types of antenna arrays in cellular systems</title>
+      <link>/publication/journal02/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/journal02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of CDMASIM: A Link Level Simulation Software for DS‐CDMA Systems</title>
+      <link>/publication/conf01/</link>
+      <pubDate>Mon, 20 May 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/conf01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Fractal Image Compression in Matlab Environment</title>
+      <link>/publication/journal01/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/journal01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advice for International Students</title>
+      <link>/project/phd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/phd/</guid>
+      <description>&lt;p&gt;If you are considering to apply for PhD scholarship and admission at ANU, information on this page should be of interest to you.&lt;/p&gt;
+&lt;h3 id=&#34;1-wireless-communications-and-signal-processing-at-anu&#34;&gt;&lt;strong&gt;1. Wireless communications and Signal processing at ANU&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The Australian National University (ANU) is one of the world&amp;rsquo;s foremost research universities. Information about ANU&amp;rsquo;s national and international ranking is available &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/links.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;http://asp.cecs.anu.edu.au/research&#34;&gt;ASP research group&lt;/a&gt; in the Research School of Engineering at ANU actively conducts research in the fields of wireless communications and signal processing.&lt;/p&gt;
+&lt;h3 id=&#34;2-international-postgraduate-research-scholarship-iprs&#34;&gt;&lt;strong&gt;2. International Postgraduate Research Scholarship (IPRS)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;IPRS is an Australian government funded scholarship which provides tuition fee for top international students wanting to do PhD in Australia. Details about IPRS allocation, ANU IPRS requirements and application forms is available in the links on the following &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/research.html&#34;&gt;page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In general, international students also have to apply for additional scholarship (e.g. ANU PhD scholarship) to cover the living expenses.&lt;/p&gt;
+&lt;p&gt;Deadline for IPRS applications is &lt;strong&gt;31 August&lt;/strong&gt; (for PhD commencing in Feb./March next year).&lt;/p&gt;
+&lt;h3 id=&#34;3-academic-record&#34;&gt;&lt;strong&gt;3. Academic Record&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;IPRS is an extremely competitive scholarship. Students must have a brilliant undergraduate academic record (generally speaking a 1st class honours with at least 85% marks) and need to be academically in the top 5% of their graduating class.&lt;/p&gt;
+&lt;p&gt;Complete detail of academic honours and awards should be provided with the IPRS application.&lt;/p&gt;
+&lt;h3 id=&#34;4-research-experiencepotential&#34;&gt;&lt;strong&gt;4. Research Experience/Potential&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Students applying for IPRS are generally expected to provide evidence of having undertaken research (in the form of published or submitted papers). This is especially relevant to students applying for IPRS on the basis of a completed Masters degree. For fresh undergraduate students, research potential can be demonstrated via outstanding academic record and projects/internships undertaken during the course of the degree. Any relevant work experience can also be used to demonstrate research capability.&lt;/p&gt;
+&lt;h3 id=&#34;5-ielts&#34;&gt;&lt;strong&gt;5. IELTS&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Students must have excellent written and oral English communication skills. If English is not your native language, you need to provide evidence of English language ability, generally via an IELTS test result. For more details, see &lt;a href=&#34;https://policies.anu.edu.au/ppl/document/ANUP_000408&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;6-prospective-supervisor&#34;&gt;&lt;strong&gt;6. Prospective Supervisor&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;It is recommended that students contact a prospective supervisor prior to submitting their IPRS application. A supervisor&amp;rsquo;s support can significantly increase the chances of scholarship success. Students should look at the staff web pages to gain information about on-going and future research projects and then contact prospective supervisors directly (via email) to discuss project opportunities.&lt;/p&gt;
+&lt;h3 id=&#34;7-research-proposal&#34;&gt;&lt;strong&gt;7. Research Proposal&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A 1-2 page research proposal is expected with an IPRS application. The proposal should identify the proposed project title and PhD supervisor and should be finalised in consultation with the PhD supervisor. It should briefly describe the research problem and key objectives. It can also briefly discuss any relevant issues such as reason for choosing ANU.&lt;/p&gt;
+&lt;h3 id=&#34;8-students-from-pakistan&#34;&gt;&lt;strong&gt;8. Students from Pakistan&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Students from Pakistan are eligible to apply for &lt;a href=&#34;https://aei.gov.au/scholarships-and-fellowships/international-applicants/pages/international-applicants.aspx&#34;&gt;Endeavour scholarship&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;9-students-from-china&#34;&gt;&lt;strong&gt;9. Students from China&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Students from China are eligible to apply for &lt;a href=&#34;https://aei.gov.au/scholarships-and-fellowships/international-applicants/pages/international-applicants.aspx&#34;&gt;Endeavour scholarship&lt;/a&gt; as well as the &lt;a href=&#34;http://www.anu.edu.au/students/scholarships-support/anu-csc-scholarship&#34;&gt;ANU-CSC scholarship&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;small&gt; Disclaimer:- This is a personal home page and the advice and contents do not represent official University views. &lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Device to Device (D2D) and Machine to Machine (M2M) Communication</title>
+      <link>/project/d2d_m2m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/d2d_m2m/</guid>
+      <description>&lt;p&gt;D2D communication allowing direct communication between nearby users has been envisaged in 3GPP standards. In D2D-enabled cellular networks, the cellular and D2D users can share the spectrum resources in two ways: in-band where D2D communications utilizes the cellular spectrum and out-of-band where D2D communications utilizes the unlicensed spectrum. In-band D2D can be further divided into two categories: overlay where the cellular and D2D communications use orthogonal (i.e., dedicated) spectrum resources and underlay where D2D users share the same spectrum resources occupied by the cellular users&lt;/p&gt;
+&lt;p&gt;Machine type communication (MTC) is also envisaged to play a key role within future fifth generation networks. MTC can be classified intotwo types:massive machine type communication (mMTC) and ultra-reliable machine type communication(uMTC).&lt;/p&gt;
+&lt;p&gt;Specific contributions include D2D mode selection, resource allocation and stochastic analysis and massive MTC solutions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeetcom.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_twc.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_ieeetcom_jing.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2018_ieeetvt.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8472252&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1904.01730&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/pimrc2015.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C2_ausctw2016.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C7_icspcs2016.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C5_vtc2017.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C6_pimrc2017.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C7_globecom2017.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8647869&#34;&gt;[7]&lt;/a&gt;, [8]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distance Distributions and Modelling of Finite Wireless Networks</title>
+      <link>/project/distance_distributions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/distance_distributions/</guid>
+      <description>&lt;p&gt;Distance distributions can be applied to study important wireless network characteristics such as interference, outage probability, connectivity, routing, and energy consumption. They can also be applied in other branches of science, such as forestry, mathematics, operations research and material sciences. When a fixed and finite number of nodes are uniformly and independently distributed over a finite region such as a square or hexagon (polygon in general), the two important distance distributions are: 1) the pdf of the Euclidean distance between two nodes uniformly and independently distributed inside a polygon and 2) the pdf of the Euclidean distance between any arbitrary reference point and its nth neighbor node when N nodes are uniformly and independently distributed inside a polygon.&lt;/p&gt;
+&lt;p&gt;Specific contributions include modelling of the nth neighbour distance distributions in concave and convex polygons with arbitrary location of the reference point, modelling of connectivity in ad hoc networks and modelling of finite area wireless ad hoc, cognitive networks and D2D networks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetvt.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6678301&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2014_ieeetcom.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_Mathematica.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeetcom.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_twc.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_wcl_yifei.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1903.07757&#34;&gt;[8]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2013/ausctw13_C1.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/globecom14_C7.pdf&#34;&gt;[2]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Wireless Networks</title>
+      <link>/project/machine_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/machine_learning/</guid>
+      <description>&lt;p&gt;Machine learning is expected to play a key role in 6G wireless networks. I have one PhD student working in this area. A number of existing PhD students are also planning to consider future works in this area. I am keen to recruit more PhD students in this area.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Journals: [1] (draft)&lt;/li&gt;
+&lt;li&gt;Conference: To do&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spherical Signal Processing</title>
+      <link>/project/spherical_signal_processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/spherical_signal_processing/</guid>
+      <description>&lt;p&gt;Signals that are inherently defined on the unit sphere appear in various fields of science and engineering such as medical image analysis, geodesy, computer graphics, planetary science, electromagnetic inverse problems, cosmology, 3D beamforming and wireless channel modeling.&lt;/p&gt;
+&lt;p&gt;Specific contributions include extension of Euclidean signal processing techniques to the sphere and development of new spatio-spectral signal transformation and filtering techniques.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2012_ieeetsp_z.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetsp.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetsp_z.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeespl.pdf&#34;&gt;[4]&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2011/icassp11_z.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2011/icspcs11_z.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2012/icassp12_C3.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2012/icassp12_C2.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2012/icassp12_C1.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2013/spie13_C4.pdf&#34;&gt;[6]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/icassp14_C1.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/ssp14_C6_z.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C1_icassp2017.pdf&#34;&gt;[9]&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synchronization</title>
+      <link>/project/synchronization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/synchronization/</guid>
+      <description>&lt;p&gt;Timing and carrier synchronization is a fundamental requirement for any wireless communications system to work properly. Timing synchronization is the process by which a receiver node determines the correct instants of time at which to sample the incoming signal. Carrier synchronization is the process by which a receiver adapts the frequency and phase of its local carrier oscillator with those of the received signal.&lt;/p&gt;
+&lt;p&gt;Specific contributions include both blind and pilot based algorithms for timing and carrier synchronization and channel estimation in OFDM, coperative, distributed, multi-way, mmwave and full duplex networks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Magazine: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_eurasip.pdf&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2010_ieeetwcom.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2009_ieeetwcom.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2009_ieeetsp.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2011_iet.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2012_ieeetsp_a.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2012_ieeetcom.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetcom.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6868950&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7065207&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_jcn.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;https://link.springer.com/content/pdf/10.1186/s13634-018-0529-9.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-019-0614-8&#34;&gt;[12]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/pimrc08_2.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/iccs2008.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Globecom09.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/ausctw10.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icfcc10_o.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icfcc10_a.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icspcs10_a.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icassp11_a.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icc11.pdf&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icspcs11_a.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/icc12_C4.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/spawc13_C3.pdf&#34;&gt;[12]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/spawc14_C4.pdf&#34;&gt;[13]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/iscit2015.pdf&#34;&gt;[14]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/C4_wcnc2016.pdf&#34;&gt;[15]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/C2_icc2017.pdf&#34;&gt;[16]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UAV Communications</title>
+      <link>/project/uav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/uav/</guid>
+      <description>&lt;p&gt;UAVs as aerial base stations or as aerial users are expected to play a key part in 5G and beyond 5G communications.&lt;/p&gt;
+&lt;p&gt;Specific contributions include: Stadium use case for UAV base station,  UAV to support rapid information dissemination in a public safety scenario and trajectory modelling or cellular connected UAVs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Magazine: &lt;a href=&#34;https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1391-7&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Journals: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8943207&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1910.13595&#34;&gt;[3]&lt;/a&gt;, [4] (draft)&lt;/li&gt;
+&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2018/C2_icc2018.pdf&#34;&gt;[1]&lt;/a&gt;, [2] (under review)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireless Power Transfer, Energy Harvesting and Backscatter Communications</title>
+      <link>/project/backscatter_communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/backscatter_communications/</guid>
+      <description>&lt;p&gt;Radio frequency (RF) enabled simultaneous information and power transfer (SWIPT) has emerged as an attractive solution to power future wireless networks. There are three main architectures for SWIPT: (i) integrated SWIPT enables information and power to be extracted from the same signal transmitted by a base station, (ii) closed-loop SWIPT utilizes downlink from base station to users for power transfer (PT) and uplink for information transmission (IT), and (iii) decoupled SWIPT overlays traditional cellular networks with special power beacons (PBs), which do not require a backhaul link, to provide dedicated PT.&lt;/p&gt;
+&lt;p&gt;Specific contributions include (i) SWIPT for relaying, cooperative, ad hoc, physical layer security and sensor network scenarios, (ii) decoupled SWIPT (i.e., power beacons) for ad hoc and millimeter wave networks and (iii) Backscatter communications for ultra low power communications in Internet of Things (IoT).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Magazine: &lt;a href=&#34;https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1391-7&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieetwcom.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeetcom_2.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeewcl_jing.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeewcl_katrina.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_twc.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeetwc.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeetvt.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeecoml.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_ieeetwc_wanchun.pdf&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_ieeetcom_wanchun.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2018_ieeetcom_katrina.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8439079/&#34;&gt;[12]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8385170/&#34;&gt;[13]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1909.00631&#34;&gt;[14]&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;[15]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/icc14_C3.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/ict2015c.pdf&#34;&gt;[2]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/ict2015b.pdf&#34;&gt;[3]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/icc2015_b.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/icc2015_a.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/wcsp2015.pdf&#34;&gt;[6]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/globalsip2015.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/globecom2015.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C3_wcncw2016.pdf&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C5_icc2016.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C3_icc2017.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C9_globecom2017.pdf&#34;&gt;[12]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2018/C3_iswc2018.pdf&#34;&gt;[13]&lt;/a&gt; (invited paper), [14], [15]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

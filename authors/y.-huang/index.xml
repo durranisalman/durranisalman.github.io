@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Huang | </title>
+    <link>/authors/y.-huang/</link>
+      <atom:link href="/authors/y.-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Y. Huang</title>
+      <link>/authors/y.-huang/</link>
+    </image>
+    
+    <item>
+      <title>Base Station Preference Association with Network Dynamics</title>
+      <link>/publication/conf72/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Proposed Network Balance Index for Heterogeneous Networks</title>
+      <link>/publication/journal41/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Load Dependent Dynamic Biasing and Association Order for Cell Range Expansion</title>
+      <link>/publication/conf67/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mode Selection, Resource Allocation and Power Control for D2D-Enabled Two-Tier Cellular Network</title>
+      <link>/publication/journal37/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Generalization of Power Control in Multiuser Interference Channels</title>
+      <link>/publication/conf63/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interference Nulling for Offloaded Heterogeneous Users Using Macro Generalized Inverse Precoder</title>
+      <link>/publication/conf58/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interference Suppression using Generalized Inverse Precoder for Downlink Heterogeneous Networks</title>
+      <link>/publication/journal27/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal27/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

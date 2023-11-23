@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. M. Jornet | </title>
+    <link>/authors/j.-m.-jornet/</link>
+      <atom:link href="/authors/j.-m.-jornet/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. M. Jornet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>J. M. Jornet</title>
+      <link>/authors/j.-m.-jornet/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Sub-band Bandwidth-Enabled Spectrum Allocation for Terahertz Communication Systems</title>
+      <link>/publication/conf89/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/conf89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal63/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

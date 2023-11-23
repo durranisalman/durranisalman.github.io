@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Sadeghi | </title>
+    <link>/authors/p.-sadeghi/</link>
+      <atom:link href="/authors/p.-sadeghi/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Sadeghi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Sadeghi</title>
+      <link>/authors/p.-sadeghi/</link>
+    </image>
+    
+    <item>
+      <title>SER Analysis of Lattice Coded Multi-way Relay Networks in the Presence of Imperfect Channel Estimation</title>
+      <link>/publication/journal39/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi‐pair Two‐way Relay Networks: Interference Management Using Lattice Codes and Amplify and Compute Relaying</title>
+      <link>/publication/conf62/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel User Pairing Scheme for Functional Decode-and-Forward Multi-way Relay Network</title>
+      <link>/publication/journal31/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimum Power Allocation for Sum Rate Improvement in AF Multi‐way Relay Networks</title>
+      <link>/publication/conf51/</link>
+      <pubDate>Mon, 15 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Pairing Scheme to Reduce Error Propagation in an Amplify and Forward Multi‐way Relay Network</title>
+      <link>/publication/conf48/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Multi‐Resolution Windowing Technique for Localized Spatio‐Spectral Analysis</title>
+      <link>/publication/conf49/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error Performance Analysis of AF and DF Multi-way Relay Networks with BPSK Modulation</title>
+      <link>/publication/journal21/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio‐spectral Formulation and Design of Spatially‐Varying Filters for Signal Estimation on the 2‐Sphere</title>
+      <link>/publication/conf43/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conf43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Directional Spatially Localized Spherical Harmonic Transform</title>
+      <link>/publication/journal16/</link>
+      <pubDate>Fri, 15 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially Varying Spectral Filtering of Signals on the Unit Sphere</title>
+      <link>/publication/journal15/</link>
+      <pubDate>Tue, 16 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ambiguity function and Wigner distribution on the sphere</title>
+      <link>/publication/conf36/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/conf36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentration uncertainty principles for signals on the unit sphere</title>
+      <link>/publication/conf37/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/conf37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conjugate gradient algorithm for extrapolation of sampled bandlimited signals on the 2‐sphere</title>
+      <link>/publication/conf35/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/conf35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Slepian Concentration Problem on the Sphere for Azimuthally Non‐Symmetric Regions</title>
+      <link>/publication/conf34/</link>
+      <pubDate>Mon, 12 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conf34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-spectral Analysis of Signals on the Sphere Using Spatially Localized Spherical Harmonics Transform</title>
+      <link>/publication/journal13/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the construction of low‐pass filters on the unit sphere</title>
+      <link>/publication/conf31/</link>
+      <pubDate>Sun, 22 May 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/conf31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-way Training: Optimal Power Allocation for Pilot and Data Transmission</title>
+      <link>/publication/journal10/</link>
+      <pubDate>Fri, 05 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/journal10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Training‐Based Transmission for Correlated MIMO Systems with Hybrid Feedback</title>
+      <link>/publication/conf23/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/conf23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Antenna Configuration for MIMO Systems with Imperfect Channel Estimation</title>
+      <link>/publication/journal07/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Guidelines for Pilot Transmission in MIMO Systems with Feedback</title>
+      <link>/publication/journal08/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capacity of MIMO Systems: Impact of Spatial Correlation with Channel Estimation Errors</title>
+      <link>/publication/conf21/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/conf21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing PSAM Schemes: How Optimal are SISO Pilot Parameters for Spatially Correlated SIMO?</title>
+      <link>/publication/conf19/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/conf19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

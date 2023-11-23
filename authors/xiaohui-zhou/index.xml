@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaohui Zhou | </title>
+    <link>/authors/xiaohui-zhou/</link>
+      <atom:link href="/authors/xiaohui-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaohui Zhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaohui Zhou</title>
+      <link>/authors/xiaohui-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Underlay Drone Cell for Temporary Events: Impact of Drone Height and Aerial Channel Environments</title>
+      <link>/publication/journal55/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uplink Coverage Performance of an Underlay Drone Cell for Temporary Events</title>
+      <link>/publication/conf79/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Beacon-Assisted Millimeter Wave Ad Hoc Networks</title>
+      <link>/publication/journal46/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of Aggregate Received Power from Power Beacons in Millimeter Wave Ad Hoc Networks</title>
+      <link>/publication/conf71/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf71/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

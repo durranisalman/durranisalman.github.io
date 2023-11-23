@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Thapa | </title>
+    <link>/authors/c.-thapa/</link>
+      <atom:link href="/authors/c.-thapa/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Thapa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Thapa</title>
+      <link>/authors/c.-thapa/</link>
+    </image>
+    
+    <item>
+      <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
+      <link>/publication/conf93/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/conf93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
+      <link>/publication/journal70/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal70/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

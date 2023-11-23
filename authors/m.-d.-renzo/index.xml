@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. D. Renzo | </title>
+    <link>/authors/m.-d.-renzo/</link>
+      <atom:link href="/authors/m.-d.-renzo/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. D. Renzo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. D. Renzo</title>
+      <link>/authors/m.-d.-renzo/</link>
+    </image>
+    
+    <item>
+      <title>Power Beacon-Assisted Millimeter Wave Ad Hoc Networks</title>
+      <link>/publication/journal46/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal46/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

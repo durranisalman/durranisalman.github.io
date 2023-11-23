@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Koohian | </title>
+    <link>/authors/a.-koohian/</link>
+      <atom:link href="/authors/a.-koohian/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Koohian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Koohian</title>
+      <link>/authors/a.-koohian/</link>
+    </image>
+    
+    <item>
+      <title>Joint Channel and Phase Noise Estimation for mmWave Full-Duplex Communication Systems</title>
+      <link>/publication/journal53/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Self‐interference Cancellation and Data Detection in Full‐Duplex Communication Systems</title>
+      <link>/publication/conf70/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superimposed Signaling Inspired Channel Estimation in Full-Duplex Systems</title>
+      <link>/publication/journal45/</link>
+      <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal45/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

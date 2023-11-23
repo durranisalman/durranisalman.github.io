@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | </title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Design and Performance Analysis of Cache‐Enabled Multicast in UAV‐Enhanced Cellular Networks</title>
+      <link>/publication/journal73/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal73/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Active and Passive Beamforming for IRS‐assisted Monostatic Backscatter Systems: An Unsupervised Learning Approach</title>
+      <link>/publication/journal72/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal72/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
+      <link>/publication/journal69/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
+      <link>/publication/journal70/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
+      <link>/publication/journal71/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal71/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
+      <link>/publication/journal67/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal67/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Intelligent Reflecting Surface (IRS)-Boosted Ambient Backscatter Systems</title>
+      <link>/publication/journal65/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal65/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Efficiency Optimization for Multiple Access in NOMA-Enabled Space-Air-Ground Networks</title>
+      <link>/publication/journal68/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal68/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning Cost Disparity for IoT Devices</title>
+      <link>/publication/journal66/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
+      <link>/publication/journal61/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal61/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
+      <link>/publication/journal62/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
+      <link>/publication/journal60/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uplink NOMA for Cellular-Connected UAV: Impact of UAV Trajectories and Altitude</title>
+      <link>/publication/journal59/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequencing and Scheduling for Multi-User Machine-Type Communication</title>
+      <link>/publication/journal58/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drone-Assisted Multihop Multicast Device-to-Device Networks for Emergency Information Dissemination</title>
+      <link>/publication/journal57/</link>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal57/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monostatic Backscatter System with Multi-Tag to Reader Communication</title>
+      <link>/publication/journal56/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
+      <link>/publication/journal64/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Channel and Phase Noise Estimation for mmWave Full-Duplex Communication Systems</title>
+      <link>/publication/journal53/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underlay Drone Cell for Temporary Events: Impact of Drone Height and Aerial Channel Environments</title>
+      <link>/publication/journal55/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Compression and Transmission Rate Control for Node-Lifetime Maximization</title>
+      <link>/publication/journal50/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral and Energy Efficiency Maximization for Content-Centric C-RANs with Edge Caching</title>
+      <link>/publication/journal51/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Non-orthogonal Multiple Access Enhanced Backscatter Communication</title>
+      <link>/publication/journal49/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal49/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Power Transfer via mmWave Power Beacons with Directional Beamforming</title>
+      <link>/publication/journal52/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficiency Maximization for Downlink Cloud Radio Access Networks with Data Sharing and Data Compression</title>
+      <link>/publication/journal48/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing CRDSA with Transmit Power Diversity for Machine-Type Communication</title>
+      <link>/publication/journal47/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Beacon-Assisted Millimeter Wave Ad Hoc Networks</title>
+      <link>/publication/journal46/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massive Machine Type Communication with Data Aggregation and Resource Scheduling</title>
+      <link>/publication/journal44/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Receiver Design with Joint Coherent and Non-Coherent Processing</title>
+      <link>/publication/journal43/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-Duplex Backscatter Interference Networks Based on Time-Hopping Spread Spectrum</title>
+      <link>/publication/journal42/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Generation Backscatter Communication: Systems, Techniques and Applications</title>
+      <link>/publication/journal54/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superimposed Signaling Inspired Channel Estimation in Full-Duplex Systems</title>
+      <link>/publication/journal45/</link>
+      <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Proposed Network Balance Index for Heterogeneous Networks</title>
+      <link>/publication/journal41/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Device-to-Device Communication Underlaying a Finite Cellular Network Region</title>
+      <link>/publication/journal40/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SER Analysis of Lattice Coded Multi-way Relay Networks in the Presence of Imperfect Channel Estimation</title>
+      <link>/publication/journal39/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing and Carrier Synchronization in Wireless Communication Systems: A Survey and Classification of Research in the Last 5 Years</title>
+      <link>/publication/journal35/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mode Selection, Resource Allocation and Power Control for D2D-Enabled Two-Tier Cellular Network</title>
+      <link>/publication/journal37/</link>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal37/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path-Following Algorithms for Beamforming and Signal Splitting in RF Energy Harvesting Networks</title>
+      <link>/publication/journal38/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Harvesting Wireless Sensor Networks: Delay Analysis Considering Energy Costs of Sensing and Transmission</title>
+      <link>/publication/journal34/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gauss-Legendre Sampling on the Rotation Group</title>
+      <link>/publication/journal33/</link>
+      <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Communication with a Wireless-Powered Friendly Jammer</title>
+      <link>/publication/journal32/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Resource Optimization for Heterogeneous Multicell Networks with Wireless Energy Harvesting Relays</title>
+      <link>/publication/journal36/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal36/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel User Pairing Scheme for Functional Decode-and-Forward Multi-way Relay Network</title>
+      <link>/publication/journal31/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of Maximum Ratio Transmission in Ad Hoc Networks with Wireless Energy Harvesting</title>
+      <link>/publication/journal30/</link>
+      <pubDate>Mon, 06 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal30/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Exact Closed-Form Distance Distributions in Arbitrarily-Shaped Polygons with Arbitrary Reference Point</title>
+      <link>/publication/journal28/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal28/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Probability of Ad Hoc Networks with Wireless Information and Power Transfer</title>
+      <link>/publication/journal29/</link>
+      <pubDate>Tue, 28 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal29/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interference Suppression using Generalized Inverse Precoder for Downlink Heterogeneous Networks</title>
+      <link>/publication/journal27/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal27/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless-Powered Relays in Cooperative Communications: Time-Switching Relaying Protocols and Throughput Analysis</title>
+      <link>/publication/journal26/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal26/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of Arbitrarily-Shaped Underlay Cognitive Networks: Effect of Secondary User Activity Protocols</title>
+      <link>/publication/journal25/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel, Phase Noise, and Frequency Offset in OFDM Systems: Joint Estimation, Data Detection, and Hybrid Cramer-Rao Lower Bound</title>
+      <link>/publication/journal24/</link>
+      <pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Probability in Arbitrarily-Shaped Finite Wireless Networks</title>
+      <link>/publication/journal22/</link>
+      <pubDate>Tue, 14 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Tractable Framework for Exact Probability of Node Isolation and Minimum Node Degree Distribution in Finite Multi-hop Networks</title>
+      <link>/publication/journal23/</link>
+      <pubDate>Tue, 03 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error Performance Analysis of AF and DF Multi-way Relay Networks with BPSK Modulation</title>
+      <link>/publication/journal21/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaying Protocols for Wireless Energy Harvesting and Information Processing</title>
+      <link>/publication/journal19/</link>
+      <pubDate>Wed, 03 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Training Sequences for Joint Timing Synchronization and Channel Estimation in Distributed Communication Networks</title>
+      <link>/publication/journal20/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transceiver Design for Distributed STBC Based AF Cooperative Networks in the Presence of Timing and Frequency Offsets</title>
+      <link>/publication/journal18/</link>
+      <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Directional Spatially Localized Spherical Harmonic Transform</title>
+      <link>/publication/journal16/</link>
+      <pubDate>Fri, 15 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance Distributions in Regular Polygons</title>
+      <link>/publication/journal17/</link>
+      <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatially Varying Spectral Filtering of Signals on the Unit Sphere</title>
+      <link>/publication/journal15/</link>
+      <pubDate>Tue, 16 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle Filters for Joint Timing and Carrier Estimation: Improved Resampling Guidelines and Weighted Bayesian Cramer-Rao Bounds</title>
+      <link>/publication/journal14/</link>
+      <pubDate>Mon, 05 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-spectral Analysis of Signals on the Sphere Using Spatially Localized Spherical Harmonics Transform</title>
+      <link>/publication/journal13/</link>
+      <pubDate>Wed, 23 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing and Carrier Synchronization with Channel Estimation in Multi-Relay Cooperative Networks</title>
+      <link>/publication/journal12/</link>
+      <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Timing and Carrier Synchronization in Distributed MIMO Communication Systems</title>
+      <link>/publication/journal11/</link>
+      <pubDate>Wed, 04 May 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-way Training: Optimal Power Allocation for Pilot and Data Transmission</title>
+      <link>/publication/journal10/</link>
+      <pubDate>Fri, 05 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/journal10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connectivity Analysis of Wireless Ad hoc Networks with Beamforming</title>
+      <link>/publication/journal09/</link>
+      <pubDate>Fri, 26 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Antenna Configuration for MIMO Systems with Imperfect Channel Estimation</title>
+      <link>/publication/journal07/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Guidelines for Pilot Transmission in MIMO Systems with Feedback</title>
+      <link>/publication/journal08/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Performance of MIMO Systems from an Electromagnetic Perspective</title>
+      <link>/publication/journal06/</link>
+      <pubDate>Thu, 27 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/journal06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the error performance of adaptive array antennas for CDMA with noncoherent M-ary orthogonal modulation in Nakagami fading</title>
+      <link>/publication/journal05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/journal05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of mutual coupling on the interference rejection capabilities of linear and circular arrays in CDMA systems</title>
+      <link>/publication/journal04/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/journal04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Investigation into the interference rejection capability of a linear array in a wireless communications system</title>
+      <link>/publication/journal03/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/journal03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interference rejection capabilities of different types of antenna arrays in cellular systems</title>
+      <link>/publication/journal02/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/journal02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementation of Fractal Image Compression in Matlab Environment</title>
+      <link>/publication/journal01/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>/publication/journal01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

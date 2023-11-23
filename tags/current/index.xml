@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>current | </title>
+    <link>/tags/current/</link>
+      <atom:link href="/tags/current/index.xml" rel="self" type="application/rss+xml" />
+    <description>current</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>current</title>
+      <link>/tags/current/</link>
+    </image>
+    
+    <item>
+      <title>Device to Device (D2D) and Machine to Machine (M2M) Communication</title>
+      <link>/project/d2d_m2m/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/d2d_m2m/</guid>
+      <description>&lt;p&gt;D2D communication allowing direct communication between nearby users has been envisaged in 3GPP standards. In D2D-enabled cellular networks, the cellular and D2D users can share the spectrum resources in two ways: in-band where D2D communications utilizes the cellular spectrum and out-of-band where D2D communications utilizes the unlicensed spectrum. In-band D2D can be further divided into two categories: overlay where the cellular and D2D communications use orthogonal (i.e., dedicated) spectrum resources and underlay where D2D users share the same spectrum resources occupied by the cellular users&lt;/p&gt;
+&lt;p&gt;Machine type communication (MTC) is also envisaged to play a key role within future fifth generation networks. MTC can be classified intotwo types:massive machine type communication (mMTC) and ultra-reliable machine type communication(uMTC).&lt;/p&gt;
+&lt;p&gt;Specific contributions include D2D mode selection, resource allocation and stochastic analysis and massive MTC solutions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeetcom.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_twc.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_ieeetcom_jing.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2018_ieeetvt.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8472252&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1904.01730&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/pimrc2015.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C2_ausctw2016.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C7_icspcs2016.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C5_vtc2017.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C6_pimrc2017.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C7_globecom2017.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8647869&#34;&gt;[7]&lt;/a&gt;, [8]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Wireless Networks</title>
+      <link>/project/machine_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/machine_learning/</guid>
+      <description>&lt;p&gt;Machine learning is expected to play a key role in 6G wireless networks. I have one PhD student working in this area. A number of existing PhD students are also planning to consider future works in this area. I am keen to recruit more PhD students in this area.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Journals: [1] (draft)&lt;/li&gt;
+&lt;li&gt;Conference: To do&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UAV Communications</title>
+      <link>/project/uav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/uav/</guid>
+      <description>&lt;p&gt;UAVs as aerial base stations or as aerial users are expected to play a key part in 5G and beyond 5G communications.&lt;/p&gt;
+&lt;p&gt;Specific contributions include: Stadium use case for UAV base station,  UAV to support rapid information dissemination in a public safety scenario and trajectory modelling or cellular connected UAVs.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Magazine: &lt;a href=&#34;https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1391-7&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Journals: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8943207&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1910.13595&#34;&gt;[3]&lt;/a&gt;, [4] (draft)&lt;/li&gt;
+&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2018/C2_icc2018.pdf&#34;&gt;[1]&lt;/a&gt;, [2] (under review)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wireless Power Transfer, Energy Harvesting and Backscatter Communications</title>
+      <link>/project/backscatter_communications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/backscatter_communications/</guid>
+      <description>&lt;p&gt;Radio frequency (RF) enabled simultaneous information and power transfer (SWIPT) has emerged as an attractive solution to power future wireless networks. There are three main architectures for SWIPT: (i) integrated SWIPT enables information and power to be extracted from the same signal transmitted by a base station, (ii) closed-loop SWIPT utilizes downlink from base station to users for power transfer (PT) and uplink for information transmission (IT), and (iii) decoupled SWIPT overlays traditional cellular networks with special power beacons (PBs), which do not require a backhaul link, to provide dedicated PT.&lt;/p&gt;
+&lt;p&gt;Specific contributions include (i) SWIPT for relaying, cooperative, ad hoc, physical layer security and sensor network scenarios, (ii) decoupled SWIPT (i.e., power beacons) for ad hoc and millimeter wave networks and (iii) Backscatter communications for ultra low power communications in Internet of Things (IoT).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Magazine: &lt;a href=&#34;https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1391-7&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieetwcom.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeetcom_2.pdf&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeewcl_jing.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeewcl_katrina.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_twc.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeetwc.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeetvt.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2016_ieeecoml.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_ieeetwc_wanchun.pdf&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_ieeetcom_wanchun.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2018_ieeetcom_katrina.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8439079/&#34;&gt;[12]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/document/8385170/&#34;&gt;[13]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1909.00631&#34;&gt;[14]&lt;/a&gt;, &lt;a href=&#34;&#34;&gt;[15]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/icc14_C3.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/ict2015c.pdf&#34;&gt;[2]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/ict2015b.pdf&#34;&gt;[3]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/icc2015_b.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/icc2015_a.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/wcsp2015.pdf&#34;&gt;[6]&lt;/a&gt; (invited paper), &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/globalsip2015.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2015/globecom2015.pdf&#34;&gt;[8]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C3_wcncw2016.pdf&#34;&gt;[9]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2016/C5_icc2016.pdf&#34;&gt;[10]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C3_icc2017.pdf&#34;&gt;[11]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2017/C9_globecom2017.pdf&#34;&gt;[12]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2018/C3_iswc2018.pdf&#34;&gt;[13]&lt;/a&gt; (invited paper), [14], [15]&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

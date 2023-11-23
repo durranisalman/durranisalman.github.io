@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. I. Kim | </title>
+    <link>/authors/d.-i.-kim/</link>
+      <atom:link href="/authors/d.-i.-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. I. Kim</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>D. I. Kim</title>
+      <link>/authors/d.-i.-kim/</link>
+    </image>
+    
+    <item>
+      <title>Path-Following Algorithms for Beamforming and Signal Splitting in RF Energy Harvesting Networks</title>
+      <link>/publication/journal38/</link>
+      <pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Beamforming for Max‐Min SINR in Multi‐Cell SWIPT Systems</title>
+      <link>/publication/conf65/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf65/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

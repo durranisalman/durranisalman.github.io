@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K. Bialkowski | </title>
+    <link>/authors/k.-bialkowski/</link>
+      <atom:link href="/authors/k.-bialkowski/index.xml" rel="self" type="application/rss+xml" />
+    <description>K. Bialkowski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>K. Bialkowski</title>
+      <link>/authors/k.-bialkowski/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the Performance of MIMO Systems from an Electromagnetic Perspective</title>
+      <link>/publication/journal06/</link>
+      <pubDate>Thu, 27 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/journal06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Simple Electromagnetic Model for Understanding the Operation of a MIMO System</title>
+      <link>/publication/conf13/</link>
+      <pubDate>Sun, 03 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/conf13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Line of Sight Propagation on Capacity of an Indoor MIMO System</title>
+      <link>/publication/conf12/</link>
+      <pubDate>Sun, 03 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/conf12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and Analyzing the Performance of MIMO Systems from the Microwave Perspective</title>
+      <link>/publication/conf11/</link>
+      <pubDate>Sun, 12 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/conf11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

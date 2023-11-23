@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Mehrpouyan | </title>
+    <link>/authors/h.-mehrpouyan/</link>
+      <atom:link href="/authors/h.-mehrpouyan/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Mehrpouyan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>H. Mehrpouyan</title>
+      <link>/authors/h.-mehrpouyan/</link>
+    </image>
+    
+    <item>
+      <title>Joint Channel and Phase Noise Estimation for mmWave Full-Duplex Communication Systems</title>
+      <link>/publication/journal53/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual Self‐interference Cancellation and Data Detection in Full‐Duplex Communication Systems</title>
+      <link>/publication/conf70/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superimposed Signaling Inspired Channel Estimation in Full-Duplex Systems</title>
+      <link>/publication/journal45/</link>
+      <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing and Carrier Synchronization in Wireless Communication Systems: A Survey and Classification of Research in the Last 5 Years</title>
+      <link>/publication/journal35/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non‐Coherent FSK: An Attractive Modulation Set for Millimeter‐Wave Communications</title>
+      <link>/publication/conf64/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Harvesting Wireless Sensor Networks: Delay Analysis Considering Energy Costs of Sensing and Transmission</title>
+      <link>/publication/journal34/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of Wireless‐Powered Sensor Transmission Considering Energy Cost of Sensing</title>
+      <link>/publication/conf61/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf61/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Channel, Phase Noise, and Frequency Offset in OFDM Systems: Joint Estimation, Data Detection, and Hybrid Cramer-Rao Lower Bound</title>
+      <link>/publication/journal24/</link>
+      <pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/journal24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training‐Based Synchronization and Channel Estimation in AF Two‐Way Relaying Networks</title>
+      <link>/publication/conf47/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf47/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Training Sequences for Joint Timing Synchronization and Channel Estimation in Distributed Communication Networks</title>
+      <link>/publication/journal20/</link>
+      <pubDate>Mon, 10 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSTBC based DF Cooperative Networks in the Presence of Timing and Frequency Offsets</title>
+      <link>/publication/conf42/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conf42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transceiver Design for Distributed STBC Based AF Cooperative Networks in the Presence of Timing and Frequency Offsets</title>
+      <link>/publication/journal18/</link>
+      <pubDate>Fri, 12 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of Synchronization Parameters in AF Cooperative Networks</title>
+      <link>/publication/conf38/</link>
+      <pubDate>Sun, 10 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/conf38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timing and Carrier Synchronization with Channel Estimation in Multi-Relay Cooperative Networks</title>
+      <link>/publication/journal12/</link>
+      <pubDate>Fri, 04 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/journal12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. Senadhira | </title>
+    <link>/authors/n.-senadhira/</link>
+      <atom:link href="/authors/n.-senadhira/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. Senadhira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>N. Senadhira</title>
+      <link>/authors/n.-senadhira/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive Multiuser Access for UAV-assisted IoT Monitoring Networks Under Bursty Traffic</title>
+      <link>/publication/conf92/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/conf92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
+      <link>/publication/journal71/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal71/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of UAV Trajectory on NOMA-Assisted Cellular-Connected UAV Networks</title>
+      <link>/publication/conf85/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conf85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uplink NOMA for Cellular-Connected UAV: Impact of UAV Trajectories and Altitude</title>
+      <link>/publication/journal59/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Analysis of Underlaid Multi‐Antenna D2D Communication in Cellular Networks</title>
+      <link>/publication/conf68/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf68/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

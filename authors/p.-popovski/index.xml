@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Popovski | </title>
+    <link>/authors/p.-popovski/</link>
+      <atom:link href="/authors/p.-popovski/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Popovski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Popovski</title>
+      <link>/authors/p.-popovski/</link>
+    </image>
+    
+    <item>
+      <title>A Novel Receiver Design with Joint Coherent and Non-Coherent Processing</title>
+      <link>/publication/journal43/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWIPT with Practical Modulation and RF Energy Harvesting Sensitivity</title>
+      <link>/publication/conf66/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Communication with a Wireless-Powered Friendly Jammer</title>
+      <link>/publication/journal32/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal32/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

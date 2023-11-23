@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W. Liu | </title>
+    <link>/authors/w.-liu/</link>
+      <atom:link href="/authors/w.-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>W. Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>W. Liu</title>
+      <link>/authors/w.-liu/</link>
+    </image>
+    
+    <item>
+      <title>Time‐Hopping Multiple‐Access for Backscatter Interference Networks</title>
+      <link>/publication/conf77/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Receiver Design with Joint Coherent and Non-Coherent Processing</title>
+      <link>/publication/journal43/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal43/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full-Duplex Backscatter Interference Networks Based on Time-Hopping Spread Spectrum</title>
+      <link>/publication/journal42/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal42/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Next Generation Backscatter Communication: Systems, Techniques and Applications</title>
+      <link>/publication/journal54/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SWIPT with Practical Modulation and RF Energy Harvesting Sensitivity</title>
+      <link>/publication/conf66/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Harvesting Wireless Sensor Networks: Delay Analysis Considering Energy Costs of Sensing and Transmission</title>
+      <link>/publication/journal34/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal34/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of Wireless‐Powered Sensor Transmission Considering Energy Cost of Sensing</title>
+      <link>/publication/conf61/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf61/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless‐Powered Friendly Jammer for Physical Layer Security</title>
+      <link>/publication/conf59/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/conf59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Communication with a Wireless-Powered Friendly Jammer</title>
+      <link>/publication/journal32/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal32/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

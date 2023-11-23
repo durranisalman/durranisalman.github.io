@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. H. Middleton | </title>
+    <link>/authors/r.-h.-middleton/</link>
+      <atom:link href="/authors/r.-h.-middleton/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. H. Middleton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>R. H. Middleton</title>
+      <link>/authors/r.-h.-middleton/</link>
+    </image>
+    
+    <item>
+      <title>Spectral and Energy Efficiency Maximization for Content-Centric C-RANs with Edge Caching</title>
+      <link>/publication/journal51/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficiency Maximization for Downlink Cloud Radio Access Networks with Data Sharing and Data Compression</title>
+      <link>/publication/journal48/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Optimization of User Association, Data Delivery Rate and Precoding for cache‐enabled F‐RANs</title>
+      <link>/publication/conf76/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conf76/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

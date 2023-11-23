@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Lamahewa | </title>
+    <link>/authors/t.-lamahewa/</link>
+      <atom:link href="/authors/t.-lamahewa/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Lamahewa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Feb 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>T. Lamahewa</title>
+      <link>/authors/t.-lamahewa/</link>
+    </image>
+    
+    <item>
+      <title>Two-way Training: Optimal Power Allocation for Pilot and Data Transmission</title>
+      <link>/publication/journal10/</link>
+      <pubDate>Fri, 05 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/journal10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Training‐Based Transmission for Correlated MIMO Systems with Hybrid Feedback</title>
+      <link>/publication/conf23/</link>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/conf23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing Antenna Configuration for MIMO Systems with Imperfect Channel Estimation</title>
+      <link>/publication/journal07/</link>
+      <pubDate>Mon, 16 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Guidelines for Pilot Transmission in MIMO Systems with Feedback</title>
+      <link>/publication/journal08/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/journal08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capacity of MIMO Systems: Impact of Spatial Correlation with Channel Estimation Errors</title>
+      <link>/publication/conf21/</link>
+      <pubDate>Wed, 19 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/conf21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing PSAM Schemes: How Optimal are SISO Pilot Parameters for Spatially Correlated SIMO?</title>
+      <link>/publication/conf19/</link>
+      <pubDate>Mon, 15 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/conf19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

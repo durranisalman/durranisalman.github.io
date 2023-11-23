@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. N. Islam | </title>
+    <link>/authors/s.-n.-islam/</link>
+      <atom:link href="/authors/s.-n.-islam/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. N. Islam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. N. Islam</title>
+      <link>/authors/s.-n.-islam/</link>
+    </image>
+    
+    <item>
+      <title>SER Analysis of Lattice Coded Multi-way Relay Networks in the Presence of Imperfect Channel Estimation</title>
+      <link>/publication/journal39/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi‐pair Two‐way Relay Networks: Interference Management Using Lattice Codes and Amplify and Compute Relaying</title>
+      <link>/publication/conf62/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/conf62/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel User Pairing Scheme for Functional Decode-and-Forward Multi-way Relay Network</title>
+      <link>/publication/journal31/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal31/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Pairing Scheme to Reduce Error Propagation in an Amplify and Forward Multi‐way Relay Network</title>
+      <link>/publication/conf48/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/conf48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error Performance Analysis of AF and DF Multi-way Relay Networks with BPSK Modulation</title>
+      <link>/publication/journal21/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

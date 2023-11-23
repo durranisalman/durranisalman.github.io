@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Alvi | </title>
+    <link>/authors/s.-alvi/</link>
+      <atom:link href="/authors/s.-alvi/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Alvi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Alvi</title>
+      <link>/authors/s.-alvi/</link>
+    </image>
+    
+    <item>
+      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
+      <link>/publication/journal71/</link>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal71/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Sub-band Bandwidth-Enabled Spectrum Allocation for Terahertz Communication Systems</title>
+      <link>/publication/conf89/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/conf89/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning Cost Disparity for IoT Devices</title>
+      <link>/publication/conf91/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/conf91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Learning Cost Disparity for IoT Devices</title>
+      <link>/publication/journal66/</link>
+      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal66/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
+      <link>/publication/journal61/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal61/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proportionally-Fair Sequencing and Scheduling for Machine-Type Communication</title>
+      <link>/publication/conf83/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conf83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequencing and Scheduling for Multi-User Machine-Type Communication</title>
+      <link>/publication/journal58/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Powered Machine-Type Communication: Energy Minimization via Compressed Transmission</title>
+      <link>/publication/conf82/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conf82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lifetime Maximization Scheme for a Sensor-Based MTC Device</title>
+      <link>/publication/conf81/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conf81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Compression and Transmission Rate Control for Node-Lifetime Maximization</title>
+      <link>/publication/journal50/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing CRDSA with Transmit Power Diversity for Machine-Type Communication</title>
+      <link>/publication/journal47/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal47/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
