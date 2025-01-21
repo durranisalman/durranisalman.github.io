@@ -5,7 +5,7 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent News</title>
@@ -13,17 +13,17 @@
     </image>
     
     <item>
-      <title>The website is (still!) under construction. The publications page is up to date. The projects will be updated soon.</title>
+      <title>The current and past projects have now all been updated.</title>
       <link>/post/news20/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/post/news20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>My former PhD student Zubair Khalid was a part of the team which won the prestigious Gordon Bell Prize for Climate Modelling. (https://awards.acm.org/bell-climate)</title>
+      <title>My former PhD student Zubair Khalid was a part of the team which won the prestigious [Gordon Bell Prize for Climate Modelling(https://awards.acm.org/bell-climate).</title>
       <link>/post/news19/</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/post/news19/</guid>
       <description></description>
     </item>

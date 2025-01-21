@@ -5,7 +5,7 @@
     <link>/authors/n.-yang/</link>
       <atom:link href="/authors/n.-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Yang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>N. Yang</title>
@@ -13,17 +13,17 @@
     </image>
     
     <item>
-      <title>Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications</title>
-      <link>/publication/conf94/</link>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/conf94/</guid>
+      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
+      <link>/publication/journal76/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal76/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
       <link>/publication/journal77/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/publication/journal77/</guid>
       <description></description>
     </item>
@@ -31,16 +31,16 @@
     <item>
       <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
       <link>/publication/journal74/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
       <guid>/publication/journal74/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
-      <link>/publication/journal76/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/journal76/</guid>
+      <title>Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications</title>
+      <link>/publication/conf94/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf94/</guid>
       <description></description>
     </item>
     

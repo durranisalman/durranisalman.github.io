@@ -5,12 +5,44 @@
     <link>/authors/x.-zhou/</link>
       <atom:link href="/authors/x.-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>X. Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>X. Zhou</title>
       <link>/authors/x.-zhou/</link>
     </image>
+    
+    <item>
+      <title>IoT Early Wildfire Detection and Labeling Models Using Time Series Features and Machine Learning</title>
+      <link>/publication/journal78/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
+      <link>/publication/journal76/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
+      <link>/publication/journal77/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
+      <link>/publication/journal74/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal74/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Early Detection of Wildfire Using IoT Sensors without Labelled Fire Data</title>
@@ -29,34 +61,10 @@
     </item>
     
     <item>
-      <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
-      <link>/publication/journal77/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/journal77/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
-      <link>/publication/journal74/</link>
-      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/journal74/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A Survey on IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities</title>
       <link>/publication/journal73/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/publication/journal73/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
-      <link>/publication/journal76/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/journal76/</guid>
       <description></description>
     </item>
     
