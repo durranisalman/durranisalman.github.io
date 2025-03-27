@@ -18,11 +18,38 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/distance_distributions/</guid>
       <description>&lt;p&gt;Distance distributions can be applied to study important wireless network characteristics such as interference, outage probability, connectivity, routing, and energy consumption. They can also be applied in other branches of science, such as forestry, mathematics, operations research and material sciences. When a fixed and finite number of nodes are uniformly and independently distributed over a finite region such as a square or hexagon (polygon in general), the two important distance distributions are: 1) the pdf of the Euclidean distance between two nodes uniformly and independently distributed inside a polygon and 2) the pdf of the Euclidean distance between any arbitrary reference point and its nth neighbor node when N nodes are uniformly and independently distributed inside a polygon.&lt;/p&gt;
-&lt;p&gt;Specific contributions include modelling of the nth neighbour distance distributions in concave and convex polygons with arbitrary location of the reference point, modelling of connectivity in ad hoc networks and modelling of finite area wireless ad hoc, cognitive networks and D2D networks.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Journals: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2013_ieeetvt.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6678301&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2014_ieeetcom.pdf&#34;&gt;[3]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_Mathematica.pdf&#34;&gt;[4]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2015_ieeetcom.pdf&#34;&gt;[5]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_twc.pdf&#34;&gt;[6]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/journals/2017_wcl_yifei.pdf&#34;&gt;[7]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1903.07757&#34;&gt;[8]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2013/ausctw13_C1.pdf&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2014/globecom14_C7.pdf&#34;&gt;[2]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Specific contributions include modelling of the nth neighbour distance distributions in concave and convex polygons with arbitrary location of the reference point, modelling of connectivity in ad hoc networks and modelling of finite area wireless ad hoc, cognitive networks and D2D networks. See details here: &lt;a href=&#34;https://s-durrani.com/software/&#34;&gt;https://s-durrani.com/software/&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enabling Ultra‐Reliable and Sustainable Machine‐to‐Machine Communications</title>
+      <link>/project/arc_mtom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/arc_mtom/</guid>
+      <description>&lt;p&gt;This was an ARC Discovery Project &lt;a href=&#34;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP170100939&#34;&gt;DP170100939&lt;/a&gt;. I was lead-CI in the project.&lt;/p&gt;
+&lt;p&gt;Novel solutions for data transmission, low-power backscatter transmission and wireless power transfer have been proposed to provide faster data rate, more reliable connectivity and prolonged network lifetime for machine-to-machine communications and Internet of Things devices and networks. The research outcomes were published in 27 journal papers and 20 conference papers. This includes several highly cited papers. The project involved successful collaboration with researchers from Canada, USA and Hong Kong. The project provided research training to one postdoc and 3 PhD students.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Harnessing Spherical Geometry in Scientific and Engineering Data Processing</title>
+      <link>/project/arc_spherical_signal_processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/arc_spherical_signal_processing/</guid>
+      <description>&lt;p&gt;This was an ARC Discovery Project &lt;a href=&#34;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP150101011&#34;&gt;DP150101011&lt;/a&gt;. I was a co-CI in the project.&lt;/p&gt;
+&lt;p&gt;Novel solutions for sampling and spherical signal processing have been proposed to process data in real world applications such as biomedical imaging, astronomy and acoustic signal processing. The research outcomes were published in 8 journal papers and 12 conference papers. The project involved successful collaborations with researchers from Europe. The project provided research training to 4 postdocs and 2 PhD students.&lt;/p&gt;
+&lt;p&gt;My PhD student and later postdoc Zubair Khalid was funded through this grant. Zubair Khalid was a part of the team which recently won the prestigious &lt;a href=&#34;https://awards.acm.org/bell-climate&#34;&gt;Gordon Bell Prize for Climate Modelling&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Realizable Synchronization Techniques - Unlocking the Potential of Future Wireless Networks</title>
+      <link>/project/arcsynchronization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/arcsynchronization/</guid>
+      <description>&lt;p&gt;This was an ARC Discovery Project &lt;a href=&#34;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP140101133&#34;&gt;DP140101133&lt;/a&gt;. I was a lead-CI in the project.&lt;/p&gt;
+&lt;p&gt;Novel solutions for synchronization, wireless energy harvesting and wireless power transfer have been proposed to provide faster data rate, more reliable connectivity and prolonged network lifetime for heterogeneous cellular networks and energy-constrained ad hoc and sensor networks. The research outcomes were published in 1 book chapter, 12 journal papers and 15 conference papers. This includes one ISI Highly Cited Paper. The project involved successful collaboration with researchers from USA, Canada, France, Denmark and Hong Kong. The project provided research training to two postdocs and 3 PhD students.&lt;/p&gt;
 </description>
     </item>
     

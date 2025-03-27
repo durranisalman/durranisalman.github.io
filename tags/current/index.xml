@@ -28,6 +28,21 @@
     </item>
     
     <item>
+      <title>Ground Based IoT Sensor Networks for Wildfire Detection</title>
+      <link>/project/bushfire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/bushfire/</guid>
+      <description>&lt;p&gt;The basic goal of this project is to develop an IoT (internet of things) ground-based sensor system to provide rapid detection of fires in their early stages. This project is funded through the &lt;a href=&#34;https://brcoe.org/project/ground-based-iot-sensor-networks/&#34;&gt;ANU Bushfire Research Centre of Excellence&lt;/a&gt;. The project has resulted in two journal papers and 1 conference paper so far, where I am a co-author.&lt;/p&gt;
+&lt;p&gt;Specific contributions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Survey paper on IoT Ground Sensing Systems for Early Wildfire Detection: &lt;a href=&#34;https://doi.org/10.1109/ACCESS.2024.3501336&#34;&gt;[Magazine paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Machine learning based detection algorithm: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Statistical detection algorithm: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Machine Learning in Wireless Networks</title>
       <link>/project/machine_learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,6 +66,21 @@
 &lt;li&gt;Magazine: &lt;a href=&#34;https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1391-7&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Journals: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8943207&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1910.13595&#34;&gt;[3]&lt;/a&gt;, [4] (draft)&lt;/li&gt;
 &lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2018/C2_icc2018.pdf&#34;&gt;[1]&lt;/a&gt;, [2] (under review)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra-Fast and Secure Terahertz Communications for 6G Wireless Systems</title>
+      <link>/project/arc_thz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/arc_thz/</guid>
+      <description>&lt;p&gt;This is an ongoing ARC Discovery Project DP230100878 (&lt;a href=&#34;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP230100878)&#34;&gt;https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP230100878)&lt;/a&gt;. I am a co-CI in the project.&lt;/p&gt;
+&lt;p&gt;My specific contributions related to THz include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Coverage analysis for THz: &lt;a href=&#34;https://doi.org/10.1109/JSAC.2021.3071840&#34;&gt;[Journal paper]&lt;/a&gt; and &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improved coverage analysis for THz:  &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Journal paper]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[Conference paper]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
