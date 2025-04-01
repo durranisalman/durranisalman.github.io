@@ -5,12 +5,44 @@
     <link>/authors/j.-m.-jornet/</link>
       <atom:link href="/authors/j.-m.-jornet/index.xml" rel="self" type="application/rss+xml" />
     <description>J. M. Jornet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>J. M. Jornet</title>
       <link>/authors/j.-m.-jornet/</link>
     </image>
+    
+    <item>
+      <title>Impact of Locations on Coverage Probability in 3D Indoor Terahertz Communication Systems</title>
+      <link>/publication/conf97/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
+      <link>/publication/journal78/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
+      <link>/publication/journal76/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications</title>
+      <link>/publication/conf94/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf94/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive Sub-band Bandwidth-Enabled Spectrum Allocation for Terahertz Communication Systems</title>
@@ -23,9 +55,10 @@
     <item>
       <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
       <link>/publication/journal63/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/journal63/</guid>
-      <description></description>
+      <description>&lt;p&gt;9667397&lt;/p&gt;
+</description>
     </item>
     
   </channel>

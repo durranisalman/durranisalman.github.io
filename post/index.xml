@@ -5,12 +5,68 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>I am looking for new PhD students to join my research group. If you are interested, please contact me.</title>
+      <link>/post/news21/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/post/news21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The website is (still!) under construction. The publications page is up to date. The projects will be updated soon.</title>
+      <link>/post/news20/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/post/news20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My former PhD student Zubair Khalid was a part of the team which won the prestigious Gordon Bell Prize for Climate Modelling. (https://awards.acm.org/bell-climate)</title>
+      <link>/post/news19/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/post/news19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New website is live!</title>
+      <link>/post/news15/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/post/news15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have been invited to join the IEEE Transactions on Wireless Communications as an Editor in the area Wireless Communication Theory and Systems II.</title>
+      <link>/post/news18/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>/post/news18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I have been recognized as [2023 AI 2000 Most Influential Scholar Award Honorable Mention in Internet of Things (IoT)](../files/2023IoT.png) (ranked 67th in Internet of Things (IoT) over the past 10 years (2013–2022). I also received this award in 2022 and 2020.</title>
+      <link>/post/news16/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/post/news16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It was a pleasure to serve as [Co‐chair for Track 3 AI and Optimisation for Wireless Communications](https://wcnc2023.ieee-wcnc.org/committees/technical-program-committee) in 2023 IEEE Wireless Communications and Networking Conference (WCNC).</title>
+      <link>/post/news17/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>/post/news17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I have been promoted to Full Professor! I would like to thank all my students and collaborators, whose success and hard work is a big part of this outcome!</title>
@@ -21,7 +77,7 @@
     </item>
     
     <item>
-      <title>I have been recognized as [AI 2000 Internet of Things (IoT) Most Influential Scholars Honorable Mention](https://users.cecs.anu.edu.au/~Salman.Durrani/_images/2022IoT.png) (ranked 46th in Internet of Things (IoT) over the past 10 years (2012–2021).</title>
+      <title>I have been recognized as [AI 2000 Internet of Things (IoT) Most Influential Scholars Honorable Mention](../files/2022IoT.png) (ranked 46th in Internet of Things (IoT) over the past 10 years (2012–2021).</title>
       <link>/post/news13/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>/post/news13/</guid>
@@ -61,7 +117,7 @@
     </item>
     
     <item>
-      <title>Mathematica code to compute distance distributions between two random points, each uniformly randomly distributed in arbitrary (concave or convex) polygons with or without holes is now [posted](http://users.cecs.anu.edu.au/~Salman.Durrani/software.html).</title>
+      <title>Mathematica code to compute distance distributions between two random points, each uniformly randomly distributed in arbitrary (concave or convex) polygons with or without holes is now [posted](https://s-durrani.com/software.html).</title>
       <link>/post/news8/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/post/news8/</guid>
@@ -85,7 +141,7 @@
     </item>
     
     <item>
-      <title>I have been awarded a [Special Commendation](https://users.cecs.anu.edu.au/~Salman.Durrani/_images/acgr.jpg) in the [2019 ACGR Award for Excellence in Graduate Supervision](https://www.acgr.edu.au/about/awards-for-excellence/). [[Photo](https://users.cecs.anu.edu.au/~Salman.Durrani/_images/DSC_0309.JPG)].</title>
+      <title>I have been awarded a [Special Commendation](../files/acgr.jpg) in the [2019 ACGR Award for Excellence in Graduate Supervision](https://www.acgr.edu.au/about/awards-for-excellence/). [[Photo](../files/DSC_0309.JPG)].</title>
       <link>/post/news5/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/post/news5/</guid>
@@ -93,7 +149,7 @@
     </item>
     
     <item>
-      <title> I gave a talk at the inaugural [ANU TELfest](https://telfest.weblogs.anu.edu.au/). My slides are available [here](http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/Slides/Durrani%20Telfest%20Nov2018.pdf) and presentation is available on [YouTube](https://www.youtube.com/watch?v=XXuyRHYoETI).</title>
+      <title> I gave a talk at the inaugural [ANU TELfest](https://telfest.weblogs.anu.edu.au/). My talk is available on [YouTube](https://www.youtube.com/watch?v=XXuyRHYoETI).</title>
       <link>/post/news4/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       <guid>/post/news4/</guid>
@@ -101,7 +157,7 @@
     </item>
     
     <item>
-      <title>Former PhD student Wanchun Liu wins the [2017 Chinese Government Award for Outstanding Self-Financed Students Abroad](https://users.cecs.anu.edu.au/~Salman.Durrani/_photos/Wanchun_certificate.pdf).</title>
+      <title>Former PhD student Wanchun Liu wins the [2017 Chinese Government Award for Outstanding Self-Financed Students Abroad](../files/Wanchun_certificate.pdf).</title>
       <link>/post/news3/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       <guid>/post/news3/</guid>
@@ -117,7 +173,7 @@
     </item>
     
     <item>
-      <title>Our edited book on wireless power transfer (over 11,000&#43; chapter downloads to date) is now published by [Springer](https://link.springer.com/book/10.1007/978-3-319-56669-6) [[Downloads](http://www.bookmetrix.com/detail/book/93f5d1fb-b0f7-4953-9a6c-29450962aced#downloads)].</title>
+      <title>Our edited book on wireless power transfer (over 14,000&#43; chapter downloads to date) is now published by [Springer](https://link.springer.com/book/10.1007/978-3-319-56669-6).</title>
       <link>/post/news1/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>/post/news1/</guid>

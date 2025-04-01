@@ -5,7 +5,7 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,9 +13,41 @@
     </image>
     
     <item>
+      <title>Impact of Locations on Coverage Probability in 3D Indoor Terahertz Communication Systems</title>
+      <link>/publication/conf97/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near‐Field Beamfocusing for Secure Transmission with Receiver‐Centered Protected Zone</title>
+      <link>/publication/conf96/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Detection of Wildfire Using IoT Sensors without Labelled Fire Data</title>
+      <link>/publication/conf95/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications</title>
+      <link>/publication/conf94/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
       <link>/publication/conf93/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>/publication/conf93/</guid>
       <description></description>
     </item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Du | </title>
+    <link>/authors/c.-du/</link>
+      <atom:link href="/authors/c.-du/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Du</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Du</title>
+      <link>/authors/c.-du/</link>
+    </image>
+    
+    <item>
+      <title>Joint Beamforming and Transmission Design for Hybrid Backscatter‐HTT Communication System</title>
+      <link>/publication/journal79/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal79/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

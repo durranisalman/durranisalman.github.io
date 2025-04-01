@@ -5,7 +5,7 @@
     <link>/authors/n.-yang/</link>
       <atom:link href="/authors/n.-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Yang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>N. Yang</title>
@@ -13,18 +13,66 @@
     </image>
     
     <item>
-      <title>Adaptive Multiuser Access for UAV-assisted IoT Monitoring Networks Under Bursty Traffic</title>
-      <link>/publication/conf92/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/conf92/</guid>
+      <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
+      <link>/publication/journal77/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal77/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Locations on Coverage Probability in 3D Indoor Terahertz Communication Systems</title>
+      <link>/publication/conf97/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
+      <link>/publication/journal78/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
+      <link>/publication/journal76/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near‐Field Beamfocusing for Secure Transmission with Receiver‐Centered Protected Zone</title>
+      <link>/publication/conf96/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf96/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
-      <link>/publication/journal71/</link>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal71/</guid>
+      <link>/publication/journal74/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications</title>
+      <link>/publication/conf94/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Multiuser Access for UAV-assisted IoT Monitoring Networks Under Bursty Traffic</title>
+      <link>/publication/conf92/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/conf92/</guid>
       <description></description>
     </item>
     
@@ -37,17 +85,9 @@
     </item>
     
     <item>
-      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
-      <link>/publication/journal63/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal63/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
       <link>/publication/journal62/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/publication/journal62/</guid>
       <description></description>
     </item>
@@ -90,6 +130,15 @@
       <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
       <guid>/publication/conf57/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal63/</guid>
+      <description>&lt;p&gt;9667397&lt;/p&gt;
+</description>
     </item>
     
   </channel>

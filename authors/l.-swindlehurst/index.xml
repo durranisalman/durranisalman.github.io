@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Swindlehurst | </title>
+    <link>/authors/l.-swindlehurst/</link>
+      <atom:link href="/authors/l.-swindlehurst/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Swindlehurst</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Swindlehurst</title>
+      <link>/authors/l.-swindlehurst/</link>
+    </image>
+    
+    <item>
+      <title>Near‐Field Beamfocusing for Secure Transmission with Receiver‐Centered Protected Zone</title>
+      <link>/publication/conf96/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf96/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

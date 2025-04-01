@@ -5,7 +5,7 @@
     <link>/authors/s.-alvi/</link>
       <atom:link href="/authors/s.-alvi/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Alvi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>S. Alvi</title>
@@ -14,9 +14,25 @@
     
     <item>
       <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
-      <link>/publication/journal71/</link>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal71/</guid>
+      <link>/publication/journal74/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities</title>
+      <link>/publication/journal73/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal73/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility Fairness for the Differentially Private Federated-Learning-Based Wireless IoT Networks</title>
+      <link>/publication/journal66/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal66/</guid>
       <description></description>
     </item>
     
@@ -33,22 +49,6 @@
       <link>/publication/conf91/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>/publication/conf91/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Federated Learning Cost Disparity for IoT Devices</title>
-      <link>/publication/journal66/</link>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal66/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
-      <link>/publication/journal63/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal63/</guid>
       <description></description>
     </item>
     
@@ -106,6 +106,15 @@
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       <guid>/publication/journal47/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal63/</guid>
+      <description>&lt;p&gt;9667397&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title></title>
@@ -13,17 +13,73 @@
     </image>
     
     <item>
-      <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
-      <link>/publication/conf93/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/conf93/</guid>
+      <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
+      <link>/publication/journal77/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal77/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Design and Performance Analysis of Cache‐Enabled Multicast in UAV‐Enhanced Cellular Networks</title>
+      <title>Impact of Locations on Coverage Probability in 3D Indoor Terahertz Communication Systems</title>
+      <link>/publication/conf97/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
+      <link>/publication/journal78/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
+      <link>/publication/journal76/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near‐Field Beamfocusing for Secure Transmission with Receiver‐Centered Protected Zone</title>
+      <link>/publication/conf96/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
+      <link>/publication/journal74/</link>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal74/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Detection of Wildfire Using IoT Sensors without Labelled Fire Data</title>
+      <link>/publication/conf95/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sub‐Band Assignment and Power Allocation With Beam Multiplexing and Aggregation in Terahertz Communications</title>
+      <link>/publication/conf94/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/conf94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on IoT Ground Sensing Systems for Early Wildfire Detection: Technologies, Challenges and Opportunities</title>
       <link>/publication/journal73/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/publication/journal73/</guid>
       <description></description>
     </item>
@@ -31,24 +87,56 @@
     <item>
       <title>Joint Active and Passive Beamforming for IRS‐assisted Monostatic Backscatter Systems: An Unsupervised Learning Approach</title>
       <link>/publication/journal72/</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/publication/journal72/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
-      <link>/publication/journal69/</link>
-      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal69/</guid>
+      <title>Design and Performance Analysis of Cache‐Enabled Multicast in UAV‐Enhanced Cellular Networks</title>
+      <link>/publication/journal71/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal71/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
       <link>/publication/journal70/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>/publication/journal70/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Outage Performance of Multi‐Tier UAV Communication With Random Beam Misalignment</title>
+      <link>/publication/journal69/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/journal69/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Key-Based Authentication: A Novel Continuous Authentication Paradigm for IoTs</title>
+      <link>/publication/conf93/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/conf93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Efficiency Optimization for Multiple Access in NOMA-Enabled Space-Air-Ground Networks</title>
+      <link>/publication/journal68/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal68/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
+      <link>/publication/journal67/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/journal67/</guid>
       <description></description>
     </item>
     
@@ -61,18 +149,10 @@
     </item>
     
     <item>
-      <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
-      <link>/publication/journal71/</link>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/journal71/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint User and Data Detection in Grant-Free NOMA with Attention-based BiLSTM Network</title>
-      <link>/publication/journal67/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal67/</guid>
+      <title>Utility Fairness for the Differentially Private Federated-Learning-Based Wireless IoT Networks</title>
+      <link>/publication/journal66/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal66/</guid>
       <description></description>
     </item>
     
@@ -81,14 +161,6 @@
       <link>/publication/journal65/</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/publication/journal65/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Energy Efficiency Optimization for Multiple Access in NOMA-Enabled Space-Air-Ground Networks</title>
-      <link>/publication/journal68/</link>
-      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal68/</guid>
       <description></description>
     </item>
     
@@ -125,18 +197,10 @@
     </item>
     
     <item>
-      <title>Federated Learning Cost Disparity for IoT Devices</title>
-      <link>/publication/journal66/</link>
-      <pubDate>Sun, 17 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/journal66/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
-      <link>/publication/journal63/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal63/</guid>
+      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
+      <link>/publication/journal64/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/journal64/</guid>
       <description></description>
     </item>
     
@@ -149,26 +213,18 @@
     </item>
     
     <item>
-      <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
-      <link>/publication/journal61/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/journal61/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Coverage Analysis for 3D Terahertz Communication Systems</title>
       <link>/publication/journal62/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>/publication/journal62/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
-      <link>/publication/journal60/</link>
-      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/journal60/</guid>
+      <title>Performance-Fairness Trade-off for Wi-Fi and LTE-LAA Coexistence</title>
+      <link>/publication/journal61/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/journal61/</guid>
       <description></description>
     </item>
     
@@ -241,14 +297,6 @@
       <link>/publication/journal56/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
       <guid>/publication/journal56/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distance Distribution Between Two Random Nodes in Arbitrary Polygons</title>
-      <link>/publication/journal64/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/journal64/</guid>
       <description></description>
     </item>
     
@@ -1322,6 +1370,39 @@
       <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
       <guid>/publication/journal01/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A Modified AKMA for Decentralized Authentication in LEO Satellite‐Based IoT Networks</title>
+      <link>/publication/journal75/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal75/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Ambient Backscatter Training for Retrodirective Wireless Power Transfer</title>
+      <link>/publication/journal60/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Beamforming and Transmission Design for Hybrid Backscatter‐HTT Communication System</title>
+      <link>/publication/journal79/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum Allocation with Adaptive Sub‐band Bandwidth for Terahertz Communication Systems</title>
+      <link>/publication/journal63/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal63/</guid>
+      <description>&lt;p&gt;9667397&lt;/p&gt;
+</description>
     </item>
     
   </channel>
