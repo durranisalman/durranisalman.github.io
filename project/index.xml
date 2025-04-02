@@ -63,17 +63,18 @@
       <link>/project/machine_learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/machine_learning/</guid>
-      <description>&lt;p&gt;Machine learning is expected to play a key role in 6G wireless networks. I have one PhD student working in this area. A number of existing PhD students are also planning to consider future works in this area. I am keen to recruit more PhD students in this area.&lt;/p&gt;
+      <description>&lt;p&gt;Machine learning is expected to play a key role in 6G wireless networks. A number of PhD students have adopted machine learning tools in their research. I am keen to recruit more PhD students in this area.&lt;/p&gt;
 &lt;p&gt;Journals:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Differentially Private Federated Learning: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9751049&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Unsupervised learning for IRS-Assisted Monostatic Backscatter Systems: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10401960&#34;&gt;[2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Differentially-Private Federated Learning for IoT: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9751049&#34;&gt;[J1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;BiLSTM network for Grant-Free NOMA: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10178037&#34;&gt;[J2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unsupervised learning for IRS-Assisted Monostatic Backscatter Systems: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10401960&#34;&gt;[J3]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Conference:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Transfer learning for IRS: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9569500&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Deep learning for IRS-Assisted Monostatic Backscatter Systems: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9746747&#34;&gt;[2]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Federated learning for IoT: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9814533&#34;&gt;[3]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Transfer learning for IRS: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9569500&#34;&gt;[C1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Deep learning for IRS-Assisted Monostatic Backscatter Systems: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9746747&#34;&gt;[C2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Federated learning for IoT: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9814533&#34;&gt;[C3]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -96,21 +97,21 @@
       <description>&lt;p&gt;UAVs as aerial base stations or as aerial users or aggregators and relays are expected to play a key part in 5G and beyond 5G communications.&lt;/p&gt;
 &lt;p&gt;Journals:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Stadium use case for UAV base station: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;UAV to support rapid information dissemination in a public safety scenario: &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8943207&#34;&gt;[2]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Trajectory modelling for cellular connected UAVs: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9095281&#34;&gt;[3]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Multitier UAV Communication: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10195979&#34;&gt;[4]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;UAVs for caching and multicasting files for information dissemination: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10445320&#34;&gt;[5]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;UAVs for IoT monitoring network: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10794769&#34;&gt;[6]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;UAV as eavesdropper in LEO Satellite‐Based IoT Networks: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10832114&#34;&gt;[7]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;UAV‐assisted maritime‐LEO satellite communication networks: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[8]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stadium use case for UAV base station: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;[J1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV to support rapid information dissemination in a public safety scenario: &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8943207&#34;&gt;[J2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Trajectory modelling for cellular connected UAVs: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9095281&#34;&gt;[J3]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Multitier UAV Communication: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10195979&#34;&gt;[J4]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAVs for caching and multicasting files for information dissemination: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10445320&#34;&gt;[J5]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAVs for IoT monitoring network: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10794769&#34;&gt;[J6]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV as eavesdropper in LEO Satellite‐Based IoT Networks: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10832114&#34;&gt;[J7]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UAV‐assisted maritime‐LEO satellite communication networks: &lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;[J8]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Conference:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/8403634&#34;&gt;[1]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9149407&#34;&gt;[2]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;SWIPT-enabled cellular-connected UAV: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9814490&#34;&gt;[3]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10283565&#34;&gt;[4]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/8403634&#34;&gt;[C1]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/9149407&#34;&gt;[C2]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;SWIPT-enabled cellular-connected UAV: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9814490&#34;&gt;[C3]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10283565&#34;&gt;[C4]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
