@@ -133,6 +133,11 @@
   </url>
   
   <url>
+    <loc>/post/news20/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/x.-wang/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url>
@@ -230,11 +235,6 @@
   <url>
     <loc>/authors/t.-ilyas/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/news20/</loc>
-    <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -475,6 +475,11 @@
   <url>
     <loc>/authors/r.-pure/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal63/</loc>
+    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1638,10 +1643,6 @@
   </url>
   
   <url>
-    <loc>/project/phd/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
@@ -1651,10 +1652,6 @@
   
   <url>
     <loc>/publication/journal60/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/d2d_m2m/</loc>
   </url>
   
   <url>
@@ -1682,27 +1679,11 @@
   </url>
   
   <url>
-    <loc>/tags/phd/</loc>
-  </url>
-  
-  <url>
     <loc>/project/</loc>
   </url>
   
   <url>
     <loc>/project/arcsynchronization/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/journal63/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/spherical_signal_processing/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/synchronization/</loc>
   </url>
   
   <url>
@@ -1715,10 +1696,6 @@
   
   <url>
     <loc>/project/arc_thz/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/backscatter_communications/</loc>
   </url>
   
 </urlset>
