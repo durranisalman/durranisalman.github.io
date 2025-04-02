@@ -73,7 +73,17 @@
   </url>
   
   <url>
+    <loc>/authors/c.-du/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/journal77/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/h.-yu/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,6 +99,11 @@
   
   <url>
     <loc>/authors/j.-m.-jornet/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal79/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,7 +133,17 @@
   </url>
   
   <url>
+    <loc>/authors/x.-wang/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/x.-zhou/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-fei/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -150,6 +175,26 @@
   <url>
     <loc>/publication/conf96/</loc>
     <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal75/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/c.-thapa/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-camtepe/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-khan/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -248,27 +293,7 @@
   </url>
   
   <url>
-    <loc>/authors/z.-fei/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/journal70/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/c.-thapa/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-camtepe/</loc>
-    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-khan/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1613,15 +1638,7 @@
   </url>
   
   <url>
-    <loc>/publication/journal75/</loc>
-  </url>
-  
-  <url>
     <loc>/project/phd/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/c.-du/</loc>
   </url>
   
   <url>
@@ -1653,15 +1670,7 @@
   </url>
   
   <url>
-    <loc>/authors/h.-yu/</loc>
-  </url>
-  
-  <url>
     <loc>/project/arc_spherical_signal_processing/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/journal79/</loc>
   </url>
   
   <url>
@@ -1710,10 +1719,6 @@
   
   <url>
     <loc>/project/backscatter_communications/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/x.-wang/</loc>
   </url>
   
 </urlset>

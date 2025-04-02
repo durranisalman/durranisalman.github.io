@@ -5,12 +5,20 @@
     <link>/authors/s.-khan/</link>
       <atom:link href="/authors/s.-khan/index.xml" rel="self" type="application/rss+xml" />
     <description>S. Khan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>S. Khan</title>
       <link>/authors/s.-khan/</link>
     </image>
+    
+    <item>
+      <title>A Modified AKMA for Decentralized Authentication in LEO Satellite‐Based IoT Networks</title>
+      <link>/publication/journal75/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal75/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Access-Based Lightweight Physical Layer Authentication for the Internet of Things Devices</title>
@@ -49,14 +57,6 @@
       <link>/publication/conf87/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>/publication/conf87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Modified AKMA for Decentralized Authentication in LEO Satellite‐Based IoT Networks</title>
-      <link>/publication/journal75/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/journal75/</guid>
       <description></description>
     </item>
     
