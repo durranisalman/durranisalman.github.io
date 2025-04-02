@@ -163,12 +163,24 @@
       <link>/project/uav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/project/uav/</guid>
-      <description>&lt;p&gt;UAVs as aerial base stations or as aerial users are expected to play a key part in 5G and beyond 5G communications.&lt;/p&gt;
-&lt;p&gt;Specific contributions include: Stadium use case for UAV base station,  UAV to support rapid information dissemination in a public safety scenario and trajectory modelling or cellular connected UAVs.&lt;/p&gt;
+      <description>&lt;p&gt;UAVs as aerial base stations or as aerial users or aggregators and relays are expected to play a key part in 5G and beyond 5G communications.&lt;/p&gt;
+&lt;p&gt;Specific contributions include:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Journals: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;[1]&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8943207&#34;&gt;[2]&lt;/a&gt;, &lt;a href=&#34;https://arxiv.org/abs/1910.13595&#34;&gt;[3]&lt;/a&gt;, [4] (draft)&lt;/li&gt;
-&lt;li&gt;Conference: &lt;a href=&#34;http://users.cecs.anu.edu.au/~Salman.Durrani/_papers/2018/C2_icc2018.pdf&#34;&gt;[1]&lt;/a&gt;, [2] (under review)&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Journals:
+&amp;ndash; Stadium use case for UAV base station: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;[1]&lt;/a&gt;
+&amp;ndash; UAV to support rapid information dissemination in a public safety scenario: &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8943207&#34;&gt;[2]&lt;/a&gt;
+&amp;ndash; Trajectory modelling or cellular connected UAVs: &lt;a href=&#34;https://ieeexplore.ieee.org/document/9095281&#34;&gt;[3]&lt;/a&gt;
+&amp;ndash; Multitier UAV Communication: [[4]] (&lt;a href=&#34;https://ieeexplore.ieee.org/document/10195979&#34;&gt;https://ieeexplore.ieee.org/document/10195979&lt;/a&gt;)
+&amp;ndash; UAVs for caching and multicasting files: [[5]] (&lt;a href=&#34;https://ieeexplore.ieee.org/document/10445320&#34;&gt;https://ieeexplore.ieee.org/document/10445320&lt;/a&gt;)
+&amp;ndash; UAVs for IoT monitoring network: [[6]] (&lt;a href=&#34;https://ieeexplore.ieee.org/document/10794769&#34;&gt;https://ieeexplore.ieee.org/document/10794769&lt;/a&gt;)
+&amp;ndash; UAV‐Assisted Maritime‐LEO Satellite Communication Networks: [[7]] (&lt;a href=&#34;https://s-durrani.com/publication/&#34;&gt;https://s-durrani.com/publication/&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conference: &lt;a href=&#34;https://ieeexplore.ieee.org/document/8403634&#34;&gt;[1]&lt;/a&gt;, [[2]] (&lt;a href=&#34;https://ieeexplore.ieee.org/document/9149407),&#34;&gt;https://ieeexplore.ieee.org/document/9149407),&lt;/a&gt; [[3]] (&lt;a href=&#34;https://ieeexplore.ieee.org/document/9814490),&#34;&gt;https://ieeexplore.ieee.org/document/9814490),&lt;/a&gt; [[4]] (&lt;a href=&#34;https://ieeexplore.ieee.org/document/10283565&#34;&gt;https://ieeexplore.ieee.org/document/10283565&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/8488493&#34;&gt;https://ieeexplore.ieee.org/document/8488493&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
