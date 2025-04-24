@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title></title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
-      <link>/publication/journal77/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal77/</guid>
+      <title>Impact of Pointing Error on Coverage Performance of 3D Indoor Terahertz Communication Systems</title>
+      <link>/publication/conf97/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf97/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Impact of Locations on Coverage Probability in 3D Indoor Terahertz Communication Systems</title>
-      <link>/publication/conf97/</link>
+      <title>Design and Performance Analysis of UAV‐Assisted Maritime‐LEO Satellite Communication Networks</title>
+      <link>/publication/journal77/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/conf97/</guid>
+      <guid>/publication/journal77/</guid>
       <description></description>
     </item>
     
