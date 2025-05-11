@@ -5,12 +5,28 @@
     <link>/authors/z.-tang/</link>
       <atom:link href="/authors/z.-tang/index.xml" rel="self" type="application/rss+xml" />
     <description>Z. Tang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Z. Tang</title>
       <link>/authors/z.-tang/</link>
     </image>
+    
+    <item>
+      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
+      <link>/publication/journal76/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal76/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Locations on Coverage Probability in 3D Indoor Terahertz Communication Systems</title>
+      <link>/publication/conf98/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/conf98/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of Pointing Error on Coverage Performance of 3D Indoor Terahertz Communication Systems</title>
@@ -25,14 +41,6 @@
       <link>/publication/journal78/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
       <guid>/publication/journal78/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
-      <link>/publication/journal76/</link>
-      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal76/</guid>
       <description></description>
     </item>
     
