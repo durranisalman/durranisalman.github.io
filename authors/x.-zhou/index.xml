@@ -5,12 +5,36 @@
     <link>/authors/x.-zhou/</link>
       <atom:link href="/authors/x.-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>X. Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>X. Zhou</title>
       <link>/authors/x.-zhou/</link>
     </image>
+    
+    <item>
+      <title>Joint Beamforming and Transmission Design for Hybrid Backscatter‐HTT Communication System</title>
+      <link>/publication/journal79/</link>
+      <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
+      <link>/publication/journal78/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eSNR-Adjusted Channel Decorrelation Preprocessing for AMP Data Detection in Highly Correlated THz MIMO Systems</title>
+      <link>/publication/journal80/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal80/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Near-Field Secure Beamfocusing With Receiver-Centered Protected Zone</title>
@@ -37,14 +61,6 @@
     </item>
     
     <item>
-      <title>eSNR-Adjusted Channel Decorrelation Preprocessing for AMP Data Detection in Highly Correlated THz MIMO Systems</title>
-      <link>/publication/journal80/</link>
-      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal80/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Impact of Locations on Coverage Probability in 3D Indoor Terahertz Communication Systems</title>
       <link>/publication/conf98/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
@@ -57,22 +73,6 @@
       <link>/publication/conf97/</link>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
       <guid>/publication/conf97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint Beamforming and Transmission Design for Hybrid Backscatter‐HTT Communication System</title>
-      <link>/publication/journal79/</link>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal79/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
-      <link>/publication/journal78/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal78/</guid>
       <description></description>
     </item>
     
