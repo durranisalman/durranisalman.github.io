@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Multi-Beam Non-Orthogonal Multiple Access for Cross-Field Terahertz Communications</title>
+      <link>/publication/journal83/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Receiver-Agnostic Radio Frequency Fingerprint Identification via Federated Learning</title>
+      <link>/publication/journal82/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-Field Secure Beamfocusing With Receiver-Centered Protected Zone</title>
+      <link>/publication/journal81/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>eSNR-Adjusted Channel Decorrelation Preprocessing for AMP Data Detection in Highly Correlated THz MIMO Systems</title>
       <link>/publication/journal80/</link>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/publication/journal80/</guid>
       <description></description>
     </item>
@@ -25,6 +49,14 @@
       <link>/publication/journal78/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <guid>/publication/journal78/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
+      <link>/publication/journal79/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal79/</guid>
       <description></description>
     </item>
     
@@ -45,34 +77,10 @@
     </item>
     
     <item>
-      <title>Receiver-Agnostic Radio Frequency Fingerprint Identification via Federated Learning</title>
-      <link>/publication/journal82/</link>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal82/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>UAV-assisted IoT Monitoring Network: Adaptive Multiuser Access for Low-Latency and High-Reliability Under Bursty Traffic</title>
       <link>/publication/journal75/</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/publication/journal75/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
-      <link>/publication/journal79/</link>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal79/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Near-Field Secure Beamfocusing With Receiver-Centered Protected Zone</title>
-      <link>/publication/journal81/</link>
-      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal81/</guid>
       <description></description>
     </item>
     

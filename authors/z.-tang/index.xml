@@ -5,12 +5,20 @@
     <link>/authors/z.-tang/</link>
       <atom:link href="/authors/z.-tang/index.xml" rel="self" type="application/rss+xml" />
     <description>Z. Tang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Z. Tang</title>
       <link>/authors/z.-tang/</link>
     </image>
+    
+    <item>
+      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
+      <link>/publication/journal79/</link>
+      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal79/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Impact of Locations on Coverage Probability in 3D Indoor Terahertz Communication Systems</title>
@@ -25,14 +33,6 @@
       <link>/publication/conf97/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/publication/conf97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
-      <link>/publication/journal79/</link>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal79/</guid>
       <description></description>
     </item>
     
