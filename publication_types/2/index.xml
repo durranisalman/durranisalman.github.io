@@ -5,12 +5,28 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Near-Field Secure Beamfocusing With Receiver-Centered Protected Zone</title>
+      <link>/publication/journal80/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eSNR-Adjusted Channel Decorrelation Preprocessing for AMP Data Detection in Highly Correlated THz MIMO Systems</title>
+      <link>/publication/journal79/</link>
+      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal79/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-Beam Non-Orthogonal Multiple Access for Cross-Field Terahertz Communications</title>
@@ -29,22 +45,6 @@
     </item>
     
     <item>
-      <title>Near-Field Secure Beamfocusing With Receiver-Centered Protected Zone</title>
-      <link>/publication/journal81/</link>
-      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal81/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eSNR-Adjusted Channel Decorrelation Preprocessing for AMP Data Detection in Highly Correlated THz MIMO Systems</title>
-      <link>/publication/journal80/</link>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal80/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Joint Beamforming and Transmission Design for Hybrid Backscatter‐HTT Communication System</title>
       <link>/publication/journal78/</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
@@ -54,9 +54,9 @@
     
     <item>
       <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
-      <link>/publication/journal79/</link>
+      <link>/publication/journal81/</link>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal79/</guid>
+      <guid>/publication/journal81/</guid>
       <description></description>
     </item>
     
