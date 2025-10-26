@@ -5,12 +5,20 @@
     <link>/authors/x.-zhou/</link>
       <atom:link href="/authors/x.-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>X. Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>X. Zhou</title>
       <link>/authors/x.-zhou/</link>
     </image>
+    
+    <item>
+      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
+      <link>/publication/journal81/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/journal81/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Near-Field Secure Beamfocusing With Receiver-Centered Protected Zone</title>
@@ -41,22 +49,6 @@
       <link>/publication/journal82/</link>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
       <guid>/publication/journal82/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joint Beamforming and Transmission Design for Hybrid Backscatter‐HTT Communication System</title>
-      <link>/publication/journal78/</link>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal78/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
-      <link>/publication/journal81/</link>
-      <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal81/</guid>
       <description></description>
     </item>
     
@@ -665,6 +657,14 @@
       <link>/publication/journal60/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/journal60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Beamforming and Transmission Design for Hybrid Backscatter‐HTT Communication System</title>
+      <link>/publication/journal78/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal78/</guid>
       <description></description>
     </item>
     
