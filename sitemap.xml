@@ -43,6 +43,16 @@
   </url>
   
   <url>
+    <loc>/post/news22/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2025-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -214,11 +224,6 @@
   
   <url>
     <loc>/post/news21/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
     <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url>
   
