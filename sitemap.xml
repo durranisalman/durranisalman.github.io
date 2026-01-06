@@ -163,6 +163,36 @@
   </url>
   
   <url>
+    <loc>/authors/c.-du/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/h.-yu/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/j.-guo/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal78/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/x.-wang/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-fei/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/news22/</loc>
     <lastmod>2025-10-28T00:00:00+00:00</lastmod>
   </url>
@@ -214,11 +244,6 @@
   
   <url>
     <loc>/publication/journal77/</loc>
-    <lastmod>2025-05-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/j.-guo/</loc>
     <lastmod>2025-05-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -324,11 +349,6 @@
   
   <url>
     <loc>/authors/h.-yanikomeroglu/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/z.-fei/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1678,10 +1698,6 @@
   </url>
   
   <url>
-    <loc>/authors/c.-du/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
@@ -1714,15 +1730,7 @@
   </url>
   
   <url>
-    <loc>/authors/h.-yu/</loc>
-  </url>
-  
-  <url>
     <loc>/project/arc_spherical_signal_processing/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/journal78/</loc>
   </url>
   
   <url>
@@ -1751,10 +1759,6 @@
   
   <url>
     <loc>/project/arc_thz/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/x.-wang/</loc>
   </url>
   
 </urlset>
