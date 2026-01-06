@@ -5,7 +5,7 @@
     <link>/authors/j.-m.-jornet/</link>
       <atom:link href="/authors/j.-m.-jornet/index.xml" rel="self" type="application/rss+xml" />
     <description>J. M. Jornet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>J. M. Jornet</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
-      <link>/publication/journal81/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal81/</guid>
+      <title>Multi-Beam Non-Orthogonal Multiple Access for Cross-Field Terahertz Communications</title>
+      <link>/publication/journal83/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal83/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eSNR-Adjusted Channel Decorrelation Preprocessing for AMP Data Detection in Highly Correlated THz MIMO Systems</title>
       <link>/publication/journal79/</link>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/publication/journal79/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-Beam Non-Orthogonal Multiple Access for Cross-Field Terahertz Communications</title>
-      <link>/publication/journal83/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal83/</guid>
+      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
+      <link>/publication/journal81/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal81/</guid>
       <description></description>
     </item>
     
@@ -49,14 +49,6 @@
       <link>/publication/conf97/</link>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
       <guid>/publication/conf97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
-      <link>/publication/journal76/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal76/</guid>
       <description></description>
     </item>
     
@@ -81,6 +73,14 @@
       <link>/publication/journal63/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>/publication/journal63/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
+      <link>/publication/journal76/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal76/</guid>
       <description></description>
     </item>
     

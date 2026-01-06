@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,41 +13,9 @@
     </image>
     
     <item>
-      <title>SPEB Minimization for STAR-RIS–assisted Cooperative ISAC with Active and Passive Sensing</title>
-      <link>/publication/journal84/</link>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
-      <link>/publication/journal81/</link>
-      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal81/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Near-Field Secure Beamfocusing With Receiver-Centered Protected Zone</title>
-      <link>/publication/journal80/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal80/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eSNR-Adjusted Channel Decorrelation Preprocessing for AMP Data Detection in Highly Correlated THz MIMO Systems</title>
-      <link>/publication/journal79/</link>
-      <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal79/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multi-Beam Non-Orthogonal Multiple Access for Cross-Field Terahertz Communications</title>
       <link>/publication/journal83/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/publication/journal83/</guid>
       <description></description>
     </item>
@@ -55,8 +23,40 @@
     <item>
       <title>Receiver-Agnostic Radio Frequency Fingerprint Identification via Federated Learning</title>
       <link>/publication/journal82/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       <guid>/publication/journal82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eSNR-Adjusted Channel Decorrelation Preprocessing for AMP Data Detection in Highly Correlated THz MIMO Systems</title>
+      <link>/publication/journal79/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal79/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Complexity Artificial Noise Aided Beam Focusing Design in Near-Field Terahertz Communications</title>
+      <link>/publication/journal81/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-Field Secure Beamfocusing With Receiver-Centered Protected Zone</title>
+      <link>/publication/journal80/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPEB Minimization for STAR-RIS–assisted Cooperative ISAC with Active and Passive Sensing</title>
+      <link>/publication/journal84/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal84/</guid>
       <description></description>
     </item>
     
@@ -97,14 +97,6 @@
       <link>/publication/journal77/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>/publication/journal77/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
-      <link>/publication/journal76/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>/publication/journal76/</guid>
       <description></description>
     </item>
     
@@ -1449,6 +1441,14 @@
       <link>/publication/journal01/</link>
       <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
       <guid>/publication/journal01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coverage Analysis for 3D Indoor Terahertz Communication System Over Fluctuating Two‐Ray Fading Channels</title>
+      <link>/publication/journal76/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal76/</guid>
       <description></description>
     </item>
     
