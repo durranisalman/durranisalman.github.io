@@ -43,6 +43,16 @@
   </url>
   
   <url>
+    <loc>/post/news23/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url>
@@ -90,6 +100,11 @@
   <url>
     <loc>/authors/x.-zhou/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news21/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -208,11 +223,6 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2025-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2025-07-31T00:00:00+00:00</lastmod>
   </url>
@@ -275,11 +285,6 @@
   <url>
     <loc>/authors/s.-khan/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/news21/</loc>
-    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
