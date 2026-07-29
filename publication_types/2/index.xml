@@ -5,12 +5,28 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Reliable Indoor Terahertz Systems: A Joint Deployment and Operation Perspective</title>
+      <link>/publication/journal87/</link>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Frequency Fingerprint Identification via Federated Meta-Learning</title>
+      <link>/publication/journal86/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal86/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SPEB Minimization for STAR-RIS–assisted Cooperative ISAC with Active and Passive Sensing</title>
