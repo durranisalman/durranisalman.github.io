@@ -5,12 +5,36 @@
     <link>/authors/x.-zhou/</link>
       <atom:link href="/authors/x.-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>X. Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>X. Zhou</title>
       <link>/authors/x.-zhou/</link>
     </image>
+    
+    <item>
+      <title>Impact of Pointing Errors and Correlated Wall Blockages on Practical Grid-based Indoor Terahertz Communication Systems</title>
+      <link>/publication/journal85/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio Frequency Fingerprint Identification via Federated Meta-Learning</title>
+      <link>/publication/journal86/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell‐Free Terahertz Integrated Sensing and Communication Networks for Reliable and Low‐Latency 6G Services</title>
+      <link>/publication/journal88/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal88/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Artificial-Noise Aided Design for Movable-Antenna Enabled Physical-Layer Service Integration</title>
@@ -45,26 +69,10 @@
     </item>
     
     <item>
-      <title>Radio Frequency Fingerprint Identification via Federated Meta-Learning</title>
-      <link>/publication/journal86/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/journal86/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SPEB Minimization for STAR-RIS–assisted Cooperative ISAC with Active and Passive Sensing</title>
       <link>/publication/journal84/</link>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
       <guid>/publication/journal84/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impact of Pointing Errors and Correlated Wall Blockages on Practical Grid-based Indoor Terahertz Communication Systems</title>
-      <link>/publication/journal85/</link>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/journal85/</guid>
       <description></description>
     </item>
     
@@ -721,6 +729,14 @@
       <link>/publication/journal60/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/publication/journal60/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OTFS‐Based Lightweight Physical‐Layer Authentication for Grant‐Free LEO Satellite‐Assisted IoT Networks</title>
+      <link>/publication/journal89/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/journal89/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,28 @@
     <link>/authors/j.-m.-jornet/</link>
       <atom:link href="/authors/j.-m.-jornet/index.xml" rel="self" type="application/rss+xml" />
     <description>J. M. Jornet</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>J. M. Jornet</title>
       <link>/authors/j.-m.-jornet/</link>
     </image>
+    
+    <item>
+      <title>Impact of Pointing Errors and Correlated Wall Blockages on Practical Grid-based Indoor Terahertz Communication Systems</title>
+      <link>/publication/journal85/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell‐Free Terahertz Integrated Sensing and Communication Networks for Reliable and Low‐Latency 6G Services</title>
+      <link>/publication/journal88/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/journal88/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Coverage Performance of Structured Indoor THz Networks: Impact of Topology and Pointing Errors</title>
@@ -25,14 +41,6 @@
       <link>/publication/journal87/</link>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
       <guid>/publication/journal87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Impact of Pointing Errors and Correlated Wall Blockages on Practical Grid-based Indoor Terahertz Communication Systems</title>
-      <link>/publication/journal85/</link>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>/publication/journal85/</guid>
       <description></description>
     </item>
     
