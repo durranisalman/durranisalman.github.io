@@ -148,6 +148,21 @@
   </url>
   
   <url>
+    <loc>/authors/m.-usman/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal89/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s.-khan/</loc>
+    <lastmod>2026-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/conf99/</loc>
     <lastmod>2026-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -169,11 +184,6 @@
   
   <url>
     <loc>/authors/a.-a.-nasir/</loc>
-    <lastmod>2026-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/m.-usman/</loc>
     <lastmod>2026-04-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -314,11 +324,6 @@
   
   <url>
     <loc>/authors/s.-camtepe/</loc>
-    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s.-khan/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1781,10 +1786,6 @@
   
   <url>
     <loc>/project/machine_learning/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/journal89/</loc>
   </url>
   
   <url>
